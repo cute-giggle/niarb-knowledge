@@ -1,0 +1,1161 @@
+{
+    "Bankssts": {
+        "Name": "Bankssts",
+        "Synonym": [
+            "Banks of the Superior Temporal Sulcus"
+        ],
+        "Description": "Bankssts is a small region located in the superior temporal sulcus of the brain, which is involved in processing visual and auditory information.",
+        "Relational corpus": {
+            "Brain regions": "Bankssts is closely associated with other regions in the superior temporal sulcus, including the middle temporal gyrus and the superior temporal gyrus. It also has connections to the prefrontal cortex and the parietal cortex.",
+            "Diseases": "",
+            "Cognition": "Bankssts is involved in the processing of social information, such as facial expressions and body language. It is also involved in the perception of motion and the recognition of objects.",
+            "Emotions": "Bankssts is involved in the processing of emotional information, particularly in the recognition of facial expressions of emotion.",
+            "Behaviors": "Bankssts is involved in the perception of biological motion, which is important for the recognition of human movement and behavior. It is also involved in the perception of gaze direction, which is important for social interactions.",
+            "Drugs": ""
+        }
+    },
+    "Caudal anterior cingulate": {
+        "Name": "Caudal anterior cingulate",
+        "Synonym": [
+            "CACC"
+        ],
+        "Description": "The caudal anterior cingulate cortex (CACC) is a region of the brain located in the anterior cingulate cortex, which is part of the limbic system. It is involved in a variety of cognitive and emotional processes, including attention, decision-making, pain perception, and social behavior.",
+        "Relational corpus": {
+            "Brain regions": "The CACC is closely connected to other regions of the limbic system, including the amygdala, hippocampus, and prefrontal cortex. It also has connections to the basal ganglia and thalamus.",
+            "Diseases": "The CACC has been implicated in a number of psychiatric and neurological disorders, including depression, anxiety, schizophrenia, and chronic pain. Dysfunction in this region has also been associated with social deficits in autism spectrum disorder.",
+            "Cognition": "The CACC is involved in attentional control, decision-making, and conflict monitoring. It has also been implicated in the processing of reward and punishment signals.",
+            "Emotions": "The CACC is involved in the regulation of emotional responses, particularly in the context of social interactions. It has been shown to be activated during empathy and perspective-taking tasks.",
+            "Behaviors": "The CACC is involved in a variety of social behaviors, including cooperation, trust, and reciprocity. It has also been implicated in the regulation of aggression and social dominance.",
+            "Drugs": "There is limited research on the effects of drugs on the CACC specifically, but some studies have suggested that antidepressants and antipsychotics may modulate activity in this region."
+        }
+    },
+    "Caudal middle frontal": {
+        "Name": "Caudal middle frontal",
+        "Synonym": [
+            "CMF"
+        ],
+        "Description": "The caudal middle frontal gyrus is a region of the frontal lobe of the brain, located in the lateral sulcus. It is involved in a variety of cognitive processes, including working memory, attention, and decision-making.",
+        "Relational corpus": {
+            "Brain regions": "The caudal middle frontal gyrus is connected to other regions of the frontal lobe, including the dorsolateral prefrontal cortex and the anterior cingulate cortex. It also has connections to the parietal lobe and the temporal lobe.",
+            "Diseases": "There is evidence to suggest that dysfunction in the caudal middle frontal gyrus may be involved in a range of psychiatric disorders, including schizophrenia, depression, and anxiety disorders.",
+            "Cognition": "The caudal middle frontal gyrus is involved in a range of cognitive processes, including working memory, attention, and decision-making. It has also been implicated in language processing and semantic memory.",
+            "Emotions": "The caudal middle frontal gyrus has been associated with emotional regulation, particularly in the context of cognitive reappraisal.",
+            "Behaviors": "The caudal middle frontal gyrus is involved in a range of behaviors, including decision-making, response inhibition, and attentional control.",
+            "Drugs": "There is limited research on the effects of drugs on the caudal middle frontal gyrus specifically, but some studies have suggested that drugs that affect dopamine levels in the brain may impact its function."
+        }
+    },
+    "Cuneus": {
+        "Name": "Cuneus",
+        "Synonym": [],
+        "Description": "The cuneus is a small region located in the occipital lobe of the brain, just above the calcarine sulcus. It is involved in visual processing and plays a role in the perception of color and motion.",
+        "Relational corpus": {
+            "Brain regions": "The cuneus is closely connected to other regions in the occipital lobe, including the primary visual cortex and the lingual gyrus. It also has connections to the parietal lobe and the frontal lobe.",
+            "Diseases": "Damage to the cuneus can result in visual deficits, such as difficulty perceiving color or motion. It has also been implicated in disorders such as migraine headaches and schizophrenia.",
+            "Cognition": "The cuneus is involved in visual cognition, including the perception of color and motion. It is also involved in visual attention and spatial awareness.",
+            "Emotions": "The cuneus has not been strongly linked to emotions, although it may play a role in the processing of emotional stimuli that are visually presented.",
+            "Behaviors": "The cuneus is involved in a variety of visual behaviors, including recognizing objects, tracking motion, and perceiving depth and distance.",
+            "Drugs": "There are no known drugs that specifically target the cuneus, although drugs that affect visual processing or brain activity in general may indirectly affect this region."
+        }
+    },
+    "Entorhinal": {
+        "Name": "Entorhinal",
+        "Synonym": [
+            "Entorhinal cortex"
+        ],
+        "Description": "The entorhinal cortex is a brain region located in the medial temporal lobe and is involved in memory and spatial navigation.",
+        "Relational corpus": {
+            "Brain regions": "The entorhinal cortex is closely connected to the hippocampus, which is also involved in memory and spatial navigation. It also has connections to the prefrontal cortex, amygdala, and other regions of the limbic system.",
+            "Diseases": "The entorhinal cortex is affected in Alzheimer's disease, which is characterized by memory loss and cognitive decline. It is also implicated in temporal lobe epilepsy.",
+            "Cognition": "The entorhinal cortex plays a role in memory encoding and retrieval, as well as spatial navigation and perception.",
+            "Emotions": "The entorhinal cortex is involved in emotional processing and regulation, particularly in relation to fear and anxiety.",
+            "Behaviors": "The entorhinal cortex is involved in a variety of behaviors, including spatial learning and memory, object recognition, and contextual fear conditioning.",
+            "Drugs": "There are currently no drugs specifically targeting the entorhinal cortex, but drugs that affect neurotransmitter systems such as acetylcholine and glutamate may indirectly affect its function."
+        }
+    },
+    "Fusiform": {
+        "Name": "Fusiform",
+        "Synonym": [
+            "Fusiform gyrus"
+        ],
+        "Description": "The fusiform gyrus is a brain region located in the temporal lobe, near the occipital lobe. It is involved in various cognitive processes, including face recognition, object recognition, and reading.",
+        "Relational corpus": {
+            "Brain regions": "The fusiform gyrus is connected to other brain regions involved in visual processing, such as the occipital lobe, parietal lobe, and temporal lobe. It is also connected to the amygdala, which is involved in emotional processing.",
+            "Diseases": "Damage to the fusiform gyrus can result in prosopagnosia, a condition in which individuals are unable to recognize faces. The fusiform gyrus has also been implicated in various neurological and psychiatric disorders, including autism, schizophrenia, and depression.",
+            "Cognition": "The fusiform gyrus is involved in various cognitive processes, including face recognition, object recognition, and reading. It is also involved in visual processing and attention.",
+            "Emotions": "The fusiform gyrus is connected to the amygdala, which is involved in emotional processing. It has been implicated in the processing of emotional faces and in the regulation of emotional responses.",
+            "Behaviors": "The fusiform gyrus is involved in various behaviors, including face recognition, object recognition, and reading. It has also been implicated in social cognition and empathy.",
+            "Drugs": "There are no known drugs that specifically target the fusiform gyrus. However, drugs that affect neurotransmitter systems involved in visual processing and emotional regulation may indirectly affect the function of the fusiform gyrus."
+        }
+    },
+    "Inferior parietal": {
+        "Name": "Inferior parietal",
+        "Synonym": [
+            "Parietal lobe"
+        ],
+        "Description": "The inferior parietal lobe is a region of the parietal lobe that is involved in a variety of functions, including spatial awareness, attention, perception, and language processing.",
+        "Relational corpus": {
+            "Brain regions": "Superior parietal lobe, Postcentral gyrus, Angular gyrus, Supramarginal gyrus, Temporal lobe, Frontal lobe",
+            "Diseases": "Alzheimer's disease, Parkinson's disease, Schizophrenia, Autism spectrum disorder, Attention deficit hyperactivity disorder (ADHD)",
+            "Cognition": "Spatial awareness, Attention, Perception, Language processing, Working memory, Episodic memory, Semantic memory, Executive function",
+            "Emotions": "Emotional processing, Empathy, Theory of mind",
+            "Behaviors": "Visuospatial processing, Attentional control, Language comprehension, Calculation, Tool use, Social cognition",
+            "Drugs": "Methylphenidate, Modafinil, Donepezil, Memantine"
+        }
+    },
+    "Inferior temporal": {
+        "Name": "Inferior temporal",
+        "Synonym": [
+            "IT cortex"
+        ],
+        "Description": "The inferior temporal cortex is a region of the cerebral cortex in the brain that is responsible for visual recognition. It is located in the temporal lobe and is involved in the processing of complex visual stimuli, such as faces and objects.",
+        "Relational corpus": {
+            "Brain regions": "The inferior temporal cortex is connected to other regions of the visual processing system, including the primary visual cortex, the middle temporal area, and the superior temporal sulcus.",
+            "Diseases": "Damage to the inferior temporal cortex can result in visual agnosia, a condition in which a person is unable to recognize objects despite having intact vision. It has also been implicated in disorders such as Alzheimer's disease and schizophrenia.",
+            "Cognition": "The inferior temporal cortex is involved in the recognition and categorization of visual stimuli, including faces, objects, and scenes. It is also involved in the formation of visual memories.",
+            "Emotions": "The inferior temporal cortex has been implicated in the processing of emotional information, particularly in the recognition of facial expressions.",
+            "Behaviors": "The inferior temporal cortex is involved in a wide range of visual behaviors, including object recognition, face recognition, and scene recognition. It is also involved in the formation of visual memories.",
+            "Drugs": "There are no known drugs that specifically target the inferior temporal cortex. However, drugs that affect the visual processing system as a whole, such as hallucinogens, can affect the functioning of this region."
+        }
+    },
+    "Isthmus cingulate": {
+        "Name": "Isthmus cingulate",
+        "Synonym": [
+            "Cingulate isthmus"
+        ],
+        "Description": "The isthmus cingulate is a small region of the cingulate cortex that lies between the posterior cingulate cortex and the parahippocampal gyrus. It is involved in a variety of cognitive and emotional processes.",
+        "Relational corpus": {
+            "Brain regions": "The isthmus cingulate is closely connected to the posterior cingulate cortex, the parahippocampal gyrus, and the medial prefrontal cortex. It is also part of the default mode network, a set of brain regions that are active when the brain is at rest.",
+            "Diseases": "The isthmus cingulate has been implicated in a number of psychiatric disorders, including depression, anxiety, and schizophrenia. It has also been associated with chronic pain and epilepsy.",
+            "Cognition": "The isthmus cingulate is involved in a variety of cognitive processes, including memory retrieval, attention, and decision-making. It is also thought to play a role in self-referential processing and social cognition.",
+            "Emotions": "The isthmus cingulate is involved in the regulation of emotions, particularly negative emotions such as fear and anxiety. It is also thought to play a role in empathy and emotional regulation.",
+            "Behaviors": "The isthmus cingulate is involved in a variety of behaviors, including social behavior, moral decision-making, and self-awareness. It is also thought to play a role in addiction and substance abuse.",
+            "Drugs": "There is limited research on the effects of drugs on the isthmus cingulate specifically, but some studies have suggested that antidepressants and antipsychotics may modulate activity in this region."
+        }
+    },
+    "Lateral occipital": {
+        "Name": "Lateral occipital",
+        "Synonym": [
+            "LO"
+        ],
+        "Description": "The lateral occipital cortex is a region of the brain located in the occipital lobe, which is responsible for processing visual information. It is involved in object recognition and perception, particularly for complex visual stimuli such as faces and scenes.",
+        "Relational corpus": {
+            "Brain regions": "The lateral occipital cortex is connected to other visual processing regions such as the primary visual cortex, the inferior temporal cortex, and the fusiform gyrus. It also has connections to the parietal cortex, which is involved in spatial processing.",
+            "Diseases": "Damage to the lateral occipital cortex can result in visual agnosia, a condition in which a person is unable to recognize objects despite having intact vision. It has also been implicated in disorders such as dyslexia and autism.",
+            "Cognition": "The lateral occipital cortex plays a crucial role in object recognition and perception, particularly for complex visual stimuli such as faces and scenes. It is also involved in visual attention and working memory.",
+            "Emotions": "The lateral occipital cortex is not directly involved in emotional processing, but it may play a role in the perception of emotional facial expressions.",
+            "Behaviors": "The lateral occipital cortex is involved in a wide range of visual behaviors, including object recognition, scene perception, and visual attention. It may also play a role in spatial navigation.",
+            "Drugs": "There is limited research on the effects of drugs on the lateral occipital cortex specifically, but drugs that affect visual processing in general may have an impact on this region. For example, hallucinogenic drugs such as LSD and psilocybin can alter visual perception and may affect activity in the lateral occipital cortex."
+        }
+    },
+    "Lateral orbitofrontal": {
+        "Name": "Lateral orbitofrontal",
+        "Synonym": [
+            "LOFC"
+        ],
+        "Description": "The lateral orbitofrontal cortex is a region of the prefrontal cortex located in the frontal lobe of the brain. It is involved in decision-making, emotional regulation, and social behavior.",
+        "Relational corpus": {
+            "Brain regions": "It is connected to other regions of the prefrontal cortex, as well as the amygdala, hippocampus, and thalamus.",
+            "Diseases": "Damage to the lateral orbitofrontal cortex has been associated with impaired decision-making, impulsivity, and social dysfunction. It has also been implicated in disorders such as addiction, depression, and anxiety.",
+            "Cognition": "The lateral orbitofrontal cortex plays a role in cognitive processes such as attention, working memory, and executive function.",
+            "Emotions": "It is involved in the regulation of emotions, particularly negative emotions such as fear and anxiety.",
+            "Behaviors": "The lateral orbitofrontal cortex is involved in social behavior, including the processing of social cues and the regulation of social behavior.",
+            "Drugs": "Drugs that affect the neurotransmitters dopamine and serotonin, such as antidepressants and antipsychotics, can have an impact on the function of the lateral orbitofrontal cortex."
+        }
+    },
+    "Lingual": {
+        "Name": "Lingual",
+        "Synonym": [
+            "Lingual gyrus"
+        ],
+        "Description": "The lingual gyrus is a region of the brain located in the occipital lobe, just above the calcarine sulcus. It is involved in processing visual information related to color, shape, and texture.",
+        "Relational corpus": {
+            "Brain regions": "The lingual gyrus is closely connected to other visual processing regions in the occipital lobe, including the fusiform gyrus and the parahippocampal gyrus.",
+            "Diseases": "Damage to the lingual gyrus can result in visual agnosia, a condition in which a person is unable to recognize objects despite intact vision. The lingual gyrus has also been implicated in the development of Alzheimer's disease.",
+            "Cognition": "The lingual gyrus is involved in visual perception and recognition, particularly of color and shape.",
+            "Emotions": "",
+            "Behaviors": "",
+            "Drugs": ""
+        }
+    },
+    "Medial orbitofrontal": {
+        "Name": "Medial orbitofrontal",
+        "Synonym": [
+            "MOFC",
+            "Medial OFC"
+        ],
+        "Description": "The medial orbitofrontal cortex is a region of the prefrontal cortex located in the frontal lobes of the brain. It is involved in decision-making, emotional processing, and social behavior.",
+        "Relational corpus": {
+            "Brain regions": "The medial orbitofrontal cortex is connected to several other brain regions, including the amygdala, hippocampus, and ventromedial prefrontal cortex. It also has connections to the basal ganglia and thalamus.",
+            "Diseases": "Damage to the medial orbitofrontal cortex has been associated with a variety of disorders, including depression, anxiety, and addiction. It has also been implicated in the development of obsessive-compulsive disorder and schizophrenia.",
+            "Cognition": "The medial orbitofrontal cortex is involved in decision-making and reward processing. It helps to integrate information about the value of different options and guide behavior accordingly.",
+            "Emotions": "The medial orbitofrontal cortex plays a key role in emotional processing, particularly in the evaluation of the emotional significance of stimuli. It is also involved in regulating emotional responses and social behavior.",
+            "Behaviors": "The medial orbitofrontal cortex is involved in a range of behaviors, including decision-making, social behavior, and emotional regulation. Damage to this region can lead to changes in personality and social behavior.",
+            "Drugs": "Drugs that affect the neurotransmitter systems in the brain, such as dopamine and serotonin, can have an impact on the medial orbitofrontal cortex. For example, drugs that increase dopamine activity can enhance reward processing and decision-making, while drugs that decrease serotonin activity can lead to impulsivity and risk-taking behavior."
+        }
+    },
+    "Middle temporal": {
+        "Name": "Middle temporal",
+        "Synonym": [
+            "MT"
+        ],
+        "Description": "The middle temporal area is a region of the cerebral cortex in the temporal lobe that is involved in visual perception, particularly motion perception.",
+        "Relational corpus": {
+            "Brain regions": "The middle temporal area is connected to other visual areas in the occipital and parietal lobes, as well as to the prefrontal cortex and the amygdala.",
+            "Diseases": "Damage to the middle temporal area can result in visual agnosia, a condition in which a person cannot recognize objects or faces despite having normal vision.",
+            "Cognition": "The middle temporal area is involved in visual perception and motion processing, which are important for spatial awareness and navigation.",
+            "Emotions": "The middle temporal area may play a role in emotional processing, as it is connected to the amygdala, a brain region involved in emotional regulation.",
+            "Behaviors": "The middle temporal area is involved in visual perception and motion processing, which are important for tasks such as driving, sports, and other activities that require spatial awareness and coordination.",
+            "Drugs": "There are no known drugs that specifically target the middle temporal area, but drugs that affect visual perception or motion processing may indirectly affect this region."
+        }
+    },
+    "Parahippocampal": {
+        "Name": "Parahippocampal",
+        "Synonym": [
+            "Parahippocampal gyrus"
+        ],
+        "Description": "The parahippocampal gyrus is a region of the brain located in the medial temporal lobe. It is involved in the processing of spatial and episodic memory, as well as in the recognition of familiar places and objects.",
+        "Relational corpus": {
+            "Brain regions": "The parahippocampal gyrus is closely connected to the hippocampus, entorhinal cortex, and other regions of the medial temporal lobe. It also has connections to the prefrontal cortex, amygdala, and other brain regions involved in memory and emotion processing.",
+            "Diseases": "Damage to the parahippocampal gyrus can result in memory impairments, such as anterograde amnesia. It has also been implicated in the pathology of Alzheimer's disease and other forms of dementia.",
+            "Cognition": "The parahippocampal gyrus plays a critical role in spatial and episodic memory, as well as in the recognition of familiar places and objects. It is also involved in the processing of contextual information and in the formation of associations between different stimuli.",
+            "Emotions": "The parahippocampal gyrus is involved in the processing of emotional information, particularly in the context of memory. It has been implicated in the encoding and retrieval of emotional memories, as well as in the regulation of emotional responses.",
+            "Behaviors": "The parahippocampal gyrus is involved in a wide range of behaviors, including spatial navigation, recognition memory, and contextual learning. It is also involved in the processing of emotional information and in the regulation of emotional responses.",
+            "Drugs": "There is limited research on the effects of drugs on the parahippocampal gyrus specifically. However, drugs that affect memory and emotion processing, such as benzodiazepines and antidepressants, may indirectly affect the function of this brain region."
+        }
+    },
+    "Paracentral": {
+        "Name": "Paracentral lobule",
+        "Synonym": [
+            "Paracentral gyrus"
+        ],
+        "Description": "The paracentral lobule is a region of the brain located in the medial surface of the cerebral hemisphere, adjacent to the central sulcus. It is involved in motor and sensory functions of the lower limbs and pelvic region.",
+        "Relational corpus": {
+            "Brain regions": "Adjacent to the central sulcus, it is closely related to the primary motor cortex, primary somatosensory cortex, and supplementary motor area. It also has connections with the prefrontal cortex, cingulate gyrus, and basal ganglia.",
+            "Diseases": "Damage to the paracentral lobule can result in lower limb paralysis, sensory loss, and urinary incontinence. It is also implicated in the pathophysiology of schizophrenia and depression.",
+            "Cognition": "The paracentral lobule is involved in body awareness and spatial perception.",
+            "Emotions": "There is limited research on the role of the paracentral lobule in emotions.",
+            "Behaviors": "The paracentral lobule is involved in the control of lower limb movements and posture.",
+            "Drugs": "There is limited research on the effects of drugs on the paracentral lobule."
+        }
+    },
+    "Pars opercularis": {
+        "Name": "Pars opercularis",
+        "Synonym": [
+            "Opercular part of the inferior frontal gyrus"
+        ],
+        "Description": "Pars opercularis is a region of the brain located in the frontal lobe, specifically in the inferior frontal gyrus. It is involved in language processing, particularly in the production of speech.",
+        "Relational corpus": {
+            "Brain regions": "Pars opercularis is closely related to other language-related brain regions, such as Broca's area and Wernicke's area. It also has connections to the motor cortex and the basal ganglia.",
+            "Diseases": "Damage to pars opercularis can result in language disorders such as apraxia of speech and Broca's aphasia. It has also been implicated in disorders such as schizophrenia and autism.",
+            "Cognition": "Pars opercularis is involved in language processing, specifically in the production of speech. It is also involved in working memory and attention.",
+            "Emotions": "There is limited research on the role of pars opercularis in emotions, but it has been suggested that it may play a role in emotional regulation.",
+            "Behaviors": "Pars opercularis is involved in the production of speech and language-related behaviors. It has also been implicated in social cognition and theory of mind.",
+            "Drugs": "There is limited research on the effects of drugs on pars opercularis specifically, but drugs that affect language processing and cognition may indirectly affect this brain region."
+        }
+    },
+    "Pars orbitalis": {
+        "Name": "Pars orbitalis",
+        "Synonym": [
+            "Orbital part of the inferior frontal gyrus"
+        ],
+        "Description": "Pars orbitalis is a region of the brain located in the frontal lobe, specifically in the inferior frontal gyrus. It is involved in various cognitive and emotional processes.",
+        "Relational corpus": {
+            "Brain regions": "Pars orbitalis is connected to other regions of the frontal lobe, such as the dorsolateral prefrontal cortex and the anterior cingulate cortex. It also has connections to the amygdala and the insula.",
+            "Diseases": "Damage to the pars orbitalis has been associated with various disorders, such as schizophrenia, depression, and anxiety. It has also been implicated in addiction and impulse control disorders.",
+            "Cognition": "Pars orbitalis is involved in various cognitive processes, such as decision-making, reward processing, and social cognition. It has also been implicated in language processing and semantic memory.",
+            "Emotions": "Pars orbitalis is involved in the processing of emotions, particularly in the regulation of negative emotions such as fear and anxiety. It has also been implicated in empathy and social emotions.",
+            "Behaviors": "Pars orbitalis is involved in various behaviors, such as social behavior, impulse control, and addiction. It has also been implicated in prosocial behavior and moral decision-making.",
+            "Drugs": "There is limited research on the effects of drugs on the pars orbitalis specifically, but some studies have suggested that drugs such as cocaine and methamphetamine may affect the functioning of this region."
+        }
+    },
+    "Pars triangularis": {
+        "Name": "Pars triangularis",
+        "Synonym": [
+            "Brodmann area 45",
+            "BA45"
+        ],
+        "Description": "Pars triangularis is a region of the inferior frontal gyrus in the frontal lobe of the brain. It is involved in language processing and production, particularly in the syntactic and semantic aspects of language.",
+        "Relational corpus": {
+            "Brain regions": "Pars opercularis, Broca's area, Wernicke's area, Inferior parietal lobule",
+            "Diseases": "Broca's aphasia, Semantic dementia, Schizophrenia, Autism spectrum disorder",
+            "Cognition": "Language processing, Syntactic processing, Semantic processing, Working memory",
+            "Emotions": "None specifically associated with Pars triangularis",
+            "Behaviors": "Language production, Speech fluency, Word retrieval",
+            "Drugs": "None specifically associated with Pars triangularis"
+        }
+    },
+    "Pericalcarine": {
+        "Name": "Pericalcarine",
+        "Synonym": [
+            "Calcarine fissure"
+        ],
+        "Description": "The pericalcarine region is a part of the occipital lobe that is responsible for processing visual information from the eyes.",
+        "Relational corpus": {
+            "Brain regions": "It is closely associated with the primary visual cortex, which is responsible for processing visual information from the eyes. It also has connections with other areas of the occipital lobe, as well as the parietal and temporal lobes.",
+            "Diseases": "Damage to the pericalcarine region can result in visual deficits, such as difficulty recognizing faces or objects, or even blindness. It is also implicated in certain neurological disorders, such as migraine headaches and epilepsy.",
+            "Cognition": "The pericalcarine region plays a crucial role in visual perception and processing, including color perception, object recognition, and spatial awareness.",
+            "Emotions": "",
+            "Behaviors": "",
+            "Drugs": ""
+        }
+    },
+    "Postcentral": {
+        "Name": "Postcentral",
+        "Synonym": [
+            "Primary somatosensory cortex",
+            "S1"
+        ],
+        "Description": "The postcentral gyrus is a prominent structure in the parietal lobe of the brain, located just behind the central sulcus. It is the primary somatosensory cortex, responsible for processing sensory information from the body, including touch, temperature, and pain.",
+        "Relational corpus": {
+            "Brain regions": "The postcentral gyrus is closely connected to other regions of the somatosensory system, including the thalamus, the primary motor cortex, and the secondary somatosensory cortex. It also has connections to the prefrontal cortex, which is involved in decision-making and planning.",
+            "Diseases": "Damage to the postcentral gyrus can result in sensory deficits, including loss of sensation or altered perception of touch, temperature, and pain. This can occur in conditions such as stroke, traumatic brain injury, and multiple sclerosis.",
+            "Cognition": "The postcentral gyrus plays a role in body awareness and proprioception, which is the sense of the position and movement of the body. It is also involved in spatial perception and the integration of sensory information with motor output.",
+            "Emotions": "",
+            "Behaviors": "The postcentral gyrus is involved in the control of movement and the execution of motor tasks. It is also involved in the perception of pain and the regulation of pain responses.",
+            "Drugs": ""
+        }
+    },
+    "Posterior cingulate": {
+        "Name": "Posterior cingulate",
+        "Synonym": [
+            "PCC"
+        ],
+        "Description": "The posterior cingulate is a region of the brain located in the medial parietal cortex, just above the corpus callosum. It is part of the default mode network and is involved in a variety of functions including memory retrieval, self-referential processing, and emotional regulation.",
+        "Relational corpus": {
+            "Brain regions": "The posterior cingulate is closely connected to other regions of the default mode network, including the medial prefrontal cortex, the inferior parietal lobule, and the hippocampus. It also has connections to the amygdala, thalamus, and other subcortical structures.",
+            "Diseases": "The posterior cingulate has been implicated in a number of neurological and psychiatric disorders, including Alzheimer's disease, Parkinson's disease, depression, and anxiety disorders.",
+            "Cognition": "The posterior cingulate is involved in a variety of cognitive processes, including memory retrieval, attention, and self-referential processing.",
+            "Emotions": "The posterior cingulate is involved in emotional regulation and has been implicated in the processing of negative emotions such as fear and anxiety.",
+            "Behaviors": "The posterior cingulate is involved in a variety of behaviors, including social cognition, decision-making, and self-awareness.",
+            "Drugs": "There is limited research on the effects of drugs on the posterior cingulate specifically, but some studies have suggested that drugs that affect the default mode network, such as psilocybin and ketamine, may have an impact on this region."
+        }
+    },
+    "Precentral": {
+        "Name": "Precentral",
+        "Synonym": [
+            "Primary motor cortex"
+        ],
+        "Description": "The precentral gyrus, also known as the primary motor cortex, is a region of the brain that is responsible for the planning, control, and execution of voluntary movements.",
+        "Relational corpus": {
+            "Brain regions": "The precentral gyrus is closely connected to other regions of the motor system, including the supplementary motor area, the basal ganglia, and the cerebellum.",
+            "Diseases": "Damage to the precentral gyrus can result in motor deficits, such as paralysis or weakness, as well as disorders like Parkinson's disease and Huntington's disease.",
+            "Cognition": "The precentral gyrus is involved in the planning and execution of complex movements, as well as the integration of sensory information related to movement.",
+            "Emotions": "",
+            "Behaviors": "The precentral gyrus is involved in a wide range of voluntary movements, including those related to speech, facial expressions, and fine motor skills.",
+            "Drugs": ""
+        }
+    },
+    "Precuneus": {
+        "Name": "Precuneus",
+        "Synonym": [
+            "Posterior cingulate gyrus"
+        ],
+        "Description": "The precuneus is a part of the parietal lobe located in the medial surface of the brain. It is involved in a variety of functions such as self-processing, visuospatial imagery, episodic memory retrieval, and consciousness.",
+        "Relational corpus": {
+            "Brain regions": "The precuneus is functionally connected to several brain regions including the posterior cingulate cortex, medial prefrontal cortex, and inferior parietal lobule. It is also part of the default mode network.",
+            "Diseases": "The precuneus has been implicated in several neurological and psychiatric disorders such as Alzheimer's disease, schizophrenia, and depression.",
+            "Cognition": "The precuneus is involved in various cognitive processes such as self-referential processing, mental imagery, and episodic memory retrieval.",
+            "Emotions": "The precuneus has been associated with emotional processing and empathy.",
+            "Behaviors": "The precuneus is involved in various behaviors such as self-awareness, attention, and consciousness.",
+            "Drugs": "There is limited research on the effects of drugs on the precuneus specifically, but some studies have shown that certain drugs such as psilocybin and ketamine can alter activity in the default mode network which includes the precuneus."
+        }
+    },
+    "Rostral anterior cingulate": {
+        "Name": "Rostral anterior cingulate",
+        "Synonym": [
+            "rACC"
+        ],
+        "Description": "The rostral anterior cingulate cortex (rACC) is a region of the brain located in the medial prefrontal cortex. It is involved in a variety of cognitive and emotional processes, including decision-making, conflict monitoring, pain processing, and empathy.",
+        "Relational corpus": {
+            "Brain regions": "The rACC is closely connected to other regions of the prefrontal cortex, as well as the amygdala, insula, and thalamus.",
+            "Diseases": "Abnormalities in the rACC have been associated with a number of psychiatric and neurological disorders, including depression, anxiety, schizophrenia, and chronic pain.",
+            "Cognition": "The rACC is involved in decision-making, conflict monitoring, and error detection.",
+            "Emotions": "The rACC is involved in the processing of emotional information, including empathy and pain.",
+            "Behaviors": "The rACC is involved in regulating behavior, particularly in response to social and emotional cues.",
+            "Drugs": "There is evidence to suggest that drugs that affect the levels of serotonin and dopamine in the brain may have an impact on the functioning of the rACC."
+        }
+    },
+    "Rostral middle frontal": {
+        "Name": "Rostral middle frontal",
+        "Synonym": [
+            "Dorsolateral prefrontal cortex"
+        ],
+        "Description": "The rostral middle frontal cortex is a region of the prefrontal cortex located in the frontal lobe of the brain. It is involved in a variety of cognitive processes, including working memory, attention, and decision-making.",
+        "Relational corpus": {
+            "Brain regions": "It is closely connected to other regions of the prefrontal cortex, as well as the parietal cortex and the anterior cingulate cortex.",
+            "Diseases": "Abnormalities in the rostral middle frontal cortex have been associated with a range of psychiatric disorders, including schizophrenia, depression, and anxiety disorders.",
+            "Cognition": "The rostral middle frontal cortex is involved in a variety of cognitive processes, including working memory, attention, and decision-making.",
+            "Emotions": "It has been implicated in the regulation of emotions, particularly in the context of cognitive reappraisal.",
+            "Behaviors": "The rostral middle frontal cortex is involved in a range of behaviors, including goal-directed behavior, response inhibition, and social cognition.",
+            "Drugs": "There is evidence to suggest that drugs that affect the levels of dopamine and serotonin in the brain can have an impact on the functioning of the rostral middle frontal cortex."
+        }
+    },
+    "Superior frontal": {
+        "Name": "Superior frontal",
+        "Synonym": [
+            "Dorsolateral prefrontal cortex",
+            "DLPFC"
+        ],
+        "Description": "The superior frontal cortex is a region of the prefrontal cortex located in the frontal lobe of the brain. It is involved in a variety of cognitive processes, including working memory, attention, decision-making, and planning.",
+        "Relational corpus": {
+            "Brain regions": "The superior frontal cortex is connected to other regions of the prefrontal cortex, as well as the parietal cortex, temporal cortex, and limbic system. It is also part of the executive control network and the default mode network.",
+            "Diseases": "Abnormalities in the superior frontal cortex have been associated with a range of psychiatric disorders, including schizophrenia, depression, and bipolar disorder.",
+            "Cognition": "The superior frontal cortex plays a key role in working memory, attention, decision-making, and planning. It is also involved in cognitive flexibility and the ability to switch between tasks.",
+            "Emotions": "The superior frontal cortex is involved in regulating emotions, particularly negative emotions such as fear and anxiety.",
+            "Behaviors": "The superior frontal cortex is involved in a range of behaviors, including impulse control, risk-taking, and social cognition.",
+            "Drugs": "Drugs that affect the levels of dopamine and serotonin in the brain can impact the function of the superior frontal cortex. For example, drugs that increase dopamine levels, such as amphetamines, can improve working memory and attention, while drugs that decrease dopamine levels, such as antipsychotics, can impair these functions."
+        }
+    },
+    "Superior parietal": {
+        "Name": "Superior parietal",
+        "Synonym": [
+            "Parietal lobe"
+        ],
+        "Description": "The superior parietal lobule is a region of the parietal lobe that is involved in processing sensory information from the body, including touch, temperature, and pain. It is also involved in spatial awareness and perception, as well as attention and working memory.",
+        "Relational corpus": {
+            "Brain regions": "The superior parietal lobule is connected to other regions of the parietal lobe, as well as the frontal and occipital lobes. It is also connected to the thalamus and the cerebellum. ",
+            "Diseases": "Damage to the superior parietal lobule can result in a variety of sensory and cognitive deficits, including difficulty with spatial perception and awareness, as well as problems with attention and working memory. It has also been implicated in disorders such as neglect syndrome and spatial dysgraphia. ",
+            "Cognition": "The superior parietal lobule is involved in a variety of cognitive processes, including spatial awareness and perception, attention, and working memory. It is also involved in the processing of sensory information from the body, including touch, temperature, and pain. ",
+            "Emotions": "The superior parietal lobule is not typically associated with emotions, although it may play a role in regulating emotional responses through its connections with other brain regions. ",
+            "Behaviors": "The superior parietal lobule is involved in a variety of behaviors, including spatial awareness and perception, attention, and working memory. It is also involved in the processing of sensory information from the body, including touch, temperature, and pain. ",
+            "Drugs": "There are no known drugs that specifically target the superior parietal lobule. However, drugs that affect the activity of other brain regions may indirectly affect the function of the superior parietal lobule."
+        }
+    },
+    "Superior temporal": {
+        "Name": "Superior temporal",
+        "Synonym": [
+            "Superior temporal gyrus"
+        ],
+        "Description": "The superior temporal gyrus is a region of the brain that is located in the temporal lobe. It is involved in a variety of functions, including auditory processing, language comprehension, and social cognition.",
+        "Relational corpus": {
+            "Brain regions": "The superior temporal gyrus is connected to other regions of the brain, including the inferior parietal lobule, the prefrontal cortex, and the amygdala.",
+            "Diseases": "Damage to the superior temporal gyrus can result in a variety of disorders, including auditory processing disorders, language disorders, and social cognition disorders.",
+            "Cognition": "The superior temporal gyrus is involved in a variety of cognitive processes, including auditory processing, language comprehension, and social cognition.",
+            "Emotions": "The superior temporal gyrus is involved in the processing of emotional information, including the recognition of facial expressions and the perception of emotional tone in speech.",
+            "Behaviors": "The superior temporal gyrus is involved in a variety of behaviors, including language production, speech perception, and social interaction.",
+            "Drugs": "There are no drugs specifically targeted at the superior temporal gyrus, but drugs that affect neurotransmitter systems involved in auditory processing, language comprehension, and social cognition may indirectly affect this region of the brain."
+        }
+    },
+    "Supramarginal": {
+        "Name": "Supramarginal",
+        "Synonym": [
+            "Angular gyrus"
+        ],
+        "Description": "The supramarginal gyrus is a part of the parietal lobe in the brain, located near the lateral sulcus. It is involved in various cognitive functions such as language processing, spatial awareness, and perception of body image.",
+        "Relational corpus": {
+            "Brain regions": "The supramarginal gyrus is closely connected to other regions of the parietal lobe, as well as the temporal and frontal lobes. It is also connected to the primary sensory and motor cortices.",
+            "Diseases": "Damage to the supramarginal gyrus can result in various language and spatial disorders, such as apraxia and dyslexia. It has also been implicated in disorders such as schizophrenia and autism.",
+            "Cognition": "The supramarginal gyrus is involved in language processing, particularly in the comprehension of syntax and grammar. It is also involved in spatial awareness and perception of body image.",
+            "Emotions": "The supramarginal gyrus has been implicated in emotional processing, particularly in the recognition of facial expressions and empathy.",
+            "Behaviors": "The supramarginal gyrus is involved in various behaviors such as reading, writing, and arithmetic. It is also involved in social cognition and theory of mind.",
+            "Drugs": "There is limited research on the effects of drugs on the supramarginal gyrus specifically, but some studies have suggested that certain drugs such as methylphenidate may enhance cognitive function in this region."
+        }
+    },
+    "Frontal pole": {
+        "Name": "Frontal pole",
+        "Synonym": [
+            "Frontal pole cortex",
+            "Rostral prefrontal cortex"
+        ],
+        "Description": "The frontal pole is the most anterior part of the prefrontal cortex, located at the front of the brain. It is involved in a wide range of cognitive processes, including decision-making, planning, working memory, and attention.",
+        "Relational corpus": {
+            "Brain regions": "The frontal pole is connected to other regions of the prefrontal cortex, as well as the anterior cingulate cortex, the insula, and the temporal lobe. It also has connections to subcortical structures such as the thalamus and basal ganglia.",
+            "Diseases": "Damage to the frontal pole can result in deficits in executive function, including impaired decision-making and planning abilities. It has also been implicated in a number of psychiatric disorders, including schizophrenia and depression.",
+            "Cognition": "The frontal pole is involved in a wide range of cognitive processes, including decision-making, planning, working memory, and attention. It is also thought to play a role in social cognition and theory of mind.",
+            "Emotions": "The frontal pole has been implicated in emotional regulation, particularly in the regulation of negative emotions such as fear and anxiety.",
+            "Behaviors": "The frontal pole is involved in a wide range of behaviors, including decision-making, planning, and attention. It is also thought to play a role in social behavior and empathy.",
+            "Drugs": "There is limited research on the effects of drugs on the frontal pole specifically, but some studies have suggested that drugs that affect dopamine levels, such as cocaine and amphetamines, may have an impact on frontal pole function."
+        }
+    },
+    "Temporal pole": {
+        "Name": "Temporal pole",
+        "Synonym": [
+            "Anterior temporal lobe"
+        ],
+        "Description": "The temporal pole is a region of the brain located at the anterior tip of the temporal lobe. It is involved in various cognitive and emotional processes.",
+        "Relational corpus": {
+            "Brain regions": "The temporal pole is connected to several other brain regions, including the amygdala, hippocampus, and prefrontal cortex.",
+            "Diseases": "Damage to the temporal pole has been associated with various neurological and psychiatric disorders, such as Alzheimer's disease, frontotemporal dementia, and schizophrenia.",
+            "Cognition": "The temporal pole is involved in various cognitive processes, such as memory, language, and social cognition.",
+            "Emotions": "The temporal pole is also involved in emotional processing, such as recognizing facial expressions and empathy.",
+            "Behaviors": "The temporal pole has been implicated in various behaviors, such as decision-making, social behavior, and moral reasoning.",
+            "Drugs": "There are no specific drugs that target the temporal pole, but drugs that affect neurotransmitters such as dopamine and serotonin may indirectly affect its function."
+        }
+    },
+    "Transverse temporal": {
+        "Name": "Transverse temporal",
+        "Synonym": [
+            "Heschl's gyrus"
+        ],
+        "Description": "The transverse temporal gyrus is a region of the brain located in the temporal lobe. It is responsible for processing auditory information and is the primary auditory cortex.",
+        "Relational corpus": {
+            "Brain regions": "The transverse temporal gyrus is connected to other regions of the auditory pathway, including the inferior colliculus and the medial geniculate nucleus. It also has connections to the prefrontal cortex and the limbic system.",
+            "Diseases": "Damage to the transverse temporal gyrus can result in auditory processing disorders, such as auditory agnosia and amusia. It has also been implicated in disorders such as schizophrenia and autism spectrum disorder.",
+            "Cognition": "The transverse temporal gyrus plays a crucial role in auditory perception and processing. It is involved in the recognition of speech sounds and the localization of sound sources.",
+            "Emotions": "The transverse temporal gyrus has been implicated in the processing of emotional sounds, such as laughter and crying.",
+            "Behaviors": "The transverse temporal gyrus is involved in the perception of music and has been shown to be active during musical tasks. It is also involved in the perception of speech and language.",
+            "Drugs": "There are no known drugs that specifically target the transverse temporal gyrus. However, drugs that affect the neurotransmitters involved in auditory processing, such as dopamine and serotonin, may indirectly affect the function of this region."
+        }
+    },
+    "Insula": {
+        "Name": "Insula",
+        "Synonym": [
+            "Insular cortex"
+        ],
+        "Description": "The insula is a region of the cerebral cortex located deep within the lateral sulcus, or Sylvian fissure, in the brain.",
+        "Relational corpus": {
+            "Brain regions": "The insula is connected to various brain regions, including the prefrontal cortex, amygdala, and anterior cingulate cortex. It also has connections to the somatosensory cortex and the gustatory cortex, which are involved in processing touch and taste sensations, respectively.",
+            "Diseases": "The insula has been implicated in a number of neurological and psychiatric disorders, including addiction, anxiety disorders, depression, and schizophrenia. Damage to the insula can also result in deficits in taste perception and social cognition.",
+            "Cognition": "The insula is involved in a variety of cognitive processes, including interoception (the perception of internal bodily sensations), emotion regulation, decision-making, and empathy.",
+            "Emotions": "The insula is thought to play a key role in the experience and regulation of emotions, particularly negative emotions such as disgust and anger. It is also involved in the processing of social emotions, such as empathy and compassion.",
+            "Behaviors": "The insula is involved in a range of behaviors, including addiction, risk-taking, and social behavior. It has also been implicated in the regulation of appetite and body weight.",
+            "Drugs": "The insula has been shown to be involved in the effects of various drugs, including nicotine, cocaine, and opioids. It is thought to play a role in the development of addiction and in the processing of drug-related cues."
+        }
+    },
+    "Brodmann.8": {
+        "Name": "Brodmann.8",
+        "Synonym": [
+            "Frontal eye field"
+        ],
+        "Description": "Brodmann.8 is a region located in the frontal lobe of the brain, specifically in the precentral gyrus. It is responsible for controlling eye movements and visual attention.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.8 is closely related to other regions in the frontal lobe, such as the prefrontal cortex and the supplementary eye field. It also has connections to the parietal lobe and the superior colliculus.",
+            "Diseases": "Damage to Brodmann.8 can result in deficits in eye movements and visual attention, such as in patients with frontal eye field syndrome. It has also been implicated in disorders such as schizophrenia and attention deficit hyperactivity disorder (ADHD).",
+            "Cognition": "Brodmann.8 plays a role in visual attention and the ability to shift attention between different stimuli. It is also involved in working memory and decision-making processes.",
+            "Emotions": "There is limited research on the role of Brodmann.8 in emotions, but it may be involved in regulating emotional responses through its connections to the prefrontal cortex.",
+            "Behaviors": "Brodmann.8 is involved in controlling eye movements and visual attention, which are important for a wide range of behaviors such as reading, driving, and sports. It may also play a role in decision-making and impulse control.",
+            "Drugs": "There is limited research on the effects of drugs on Brodmann.8 specifically, but drugs that affect dopamine and norepinephrine levels in the brain may impact its function."
+        }
+    },
+    "Brodmann.6": {
+        "Name": "Brodmann.6",
+        "Synonym": [
+            "BA6",
+            "Precentral gyrus"
+        ],
+        "Description": "Brodmann.6 is a region of the frontal lobe of the brain that is located in the precentral gyrus. It is involved in the planning and execution of voluntary movements.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.6 is closely associated with other regions of the motor cortex, including Brodmann.4 and Brodmann.8. It also has connections to the parietal lobe, which is involved in sensory processing and spatial awareness.",
+            "Diseases": "Damage to Brodmann.6 can result in motor deficits, such as paralysis or weakness. It is also implicated in movement disorders such as Parkinson's disease and Huntington's disease.",
+            "Cognition": "Brodmann.6 is primarily involved in motor planning and execution, but it may also play a role in higher cognitive functions such as decision-making and working memory.",
+            "Emotions": "",
+            "Behaviors": "Brodmann.6 is involved in the control of voluntary movements, including fine motor skills and complex movements such as speech and writing.",
+            "Drugs": "There are no drugs specifically targeted at Brodmann.6, but medications used to treat movement disorders may affect this region indirectly."
+        }
+    },
+    "Brodmann.4": {
+        "Name": "Brodmann.4",
+        "Synonym": [
+            "Primary motor cortex",
+            "M1"
+        ],
+        "Description": "Brodmann.4, also known as the primary motor cortex or M1, is a region of the brain located in the frontal lobe. It is responsible for the planning, control, and execution of voluntary movements.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.4 is closely connected to other regions of the motor system, including the premotor cortex, supplementary motor area, and basal ganglia.",
+            "Diseases": "Damage to Brodmann.4 can result in motor deficits, such as paralysis or weakness. It is also implicated in movement disorders such as Parkinson's disease and Huntington's disease.",
+            "Cognition": "While Brodmann.4 is primarily associated with motor function, it also plays a role in cognitive processes such as attention and decision-making.",
+            "Emotions": "Brodmann.4 is not directly involved in emotional processing, but it may indirectly influence emotional responses through its connections to other brain regions.",
+            "Behaviors": "Brodmann.4 is involved in a wide range of behaviors related to movement, including walking, reaching, and grasping.",
+            "Drugs": "There are no drugs specifically targeting Brodmann.4, but medications used to treat movement disorders may indirectly affect its function."
+        }
+    },
+    "Brodmann.9": {
+        "Name": "Brodmann.9",
+        "Synonym": [
+            "BA9",
+            "Dorsolateral prefrontal cortex"
+        ],
+        "Description": "Brodmann.9 is a region of the prefrontal cortex located in the dorsolateral area of the frontal lobe. It is involved in executive functions such as working memory, planning, decision-making, and cognitive flexibility.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.9 is connected to other prefrontal regions such as Brodmann.46, Brodmann.10, and Brodmann.8. It also has connections to the parietal cortex and the basal ganglia.",
+            "Diseases": "Brodmann.9 dysfunction has been implicated in several psychiatric and neurological disorders such as schizophrenia, depression, bipolar disorder, and Parkinson's disease.",
+            "Cognition": "Brodmann.9 plays a crucial role in higher cognitive functions such as attention, working memory, and decision-making. It is also involved in language processing and semantic memory.",
+            "Emotions": "Brodmann.9 has been associated with emotional regulation and the processing of emotional stimuli. It is involved in the modulation of negative emotions such as fear and anxiety.",
+            "Behaviors": "Brodmann.9 is involved in the regulation of goal-directed behavior, planning, and decision-making. It is also implicated in social cognition and empathy.",
+            "Drugs": "Several drugs have been shown to modulate Brodmann.9 activity, including dopamine agonists, antidepressants, and antipsychotics. Transcranial magnetic stimulation (TMS) has also been used to modulate Brodmann.9 activity in various cognitive and emotional tasks."
+        }
+    },
+    "Brodmann.3": {
+        "Name": "Brodmann.3",
+        "Synonym": [
+            "BA3"
+        ],
+        "Description": "Brodmann area 3 is a region in the parietal lobe of the brain that is involved in somatosensory processing and spatial awareness.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann area 1, Brodmann area 2, Brodmann area 5, Brodmann area 7",
+            "Diseases": "Somatosensory disorders, Spatial neglect",
+            "Cognition": "Spatial awareness, Sensory perception",
+            "Emotions": "",
+            "Behaviors": "Sensory discrimination, Spatial orientation",
+            "Drugs": ""
+        }
+    },
+    "Brodmann.1": {
+        "Name": "Brodmann.1",
+        "Synonym": [
+            "Primary somatosensory cortex",
+            "S1"
+        ],
+        "Description": "Brodmann.1 is a region of the brain located in the postcentral gyrus of the parietal lobe. It is responsible for processing somatosensory information from the body, including touch, temperature, and pain.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.1 is closely associated with other regions of the somatosensory cortex, including Brodmann.2 and Brodmann.3. It also has connections to the thalamus, which relays sensory information from the body to the cortex.",
+            "Diseases": "Damage to Brodmann.1 can result in sensory deficits, such as numbness or loss of sensation in parts of the body. It is also implicated in conditions such as phantom limb syndrome and chronic pain.",
+            "Cognition": "Brodmann.1 plays a role in body awareness and spatial perception. It is also involved in the integration of sensory information with motor planning, allowing us to perform complex movements and manipulate objects.",
+            "Emotions": "Brodmann.1 is not directly involved in emotional processing, but it may play a role in the perception of touch and other physical sensations that can elicit emotional responses.",
+            "Behaviors": "Brodmann.1 is involved in a wide range of behaviors related to somatosensation, including touch discrimination, proprioception, and pain perception. It also plays a role in motor planning and execution.",
+            "Drugs": "There are no drugs specifically targeted at Brodmann.1, but medications that affect sensory processing or pain perception may indirectly impact this region."
+        }
+    },
+    "Brodmann.5": {
+        "Name": "Brodmann.5",
+        "Synonym": [
+            "BA5",
+            "Brodmann area 5"
+        ],
+        "Description": "Brodmann area 5 is a region in the parietal lobe of the brain. It is located in the superior parietal lobule and is involved in somatosensory processing and spatial awareness.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann area 5 is connected to other regions in the parietal lobe, such as Brodmann area 7 and the intraparietal sulcus. It also has connections to the primary somatosensory cortex and the premotor cortex.",
+            "Diseases": "",
+            "Cognition": "Brodmann area 5 is involved in spatial cognition and perception. It is also involved in the integration of sensory information from different modalities.",
+            "Emotions": "",
+            "Behaviors": "Brodmann area 5 is involved in the planning and execution of movements, as well as the perception of body position and movement. It is also involved in attention and working memory.",
+            "Drugs": ""
+        }
+    },
+    "Brodmann.7": {
+        "Name": "Brodmann.7",
+        "Synonym": [
+            "BA7",
+            "parietal cortex"
+        ],
+        "Description": "Brodmann.7 is a region of the parietal cortex that is involved in sensory processing, spatial awareness, and attention.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.7 is connected to other regions of the parietal cortex, as well as the frontal cortex and the occipital cortex. It is also involved in the dorsal visual stream, which is responsible for processing visual information related to spatial location and movement.",
+            "Diseases": "Damage to Brodmann.7 can result in spatial neglect, a condition in which patients are unable to attend to stimuli on one side of their body or in their environment. It has also been implicated in disorders such as autism and schizophrenia.",
+            "Cognition": "Brodmann.7 is involved in spatial cognition, including the ability to perceive and navigate through space. It is also involved in attention and working memory.",
+            "Emotions": "Brodmann.7 has been implicated in emotional processing, particularly in the perception of facial expressions and the recognition of emotional states.",
+            "Behaviors": "Brodmann.7 is involved in a range of behaviors related to spatial awareness and attention, including reaching and grasping, visual search, and spatial memory.",
+            "Drugs": "There is limited research on the effects of drugs on Brodmann.7 specifically, but drugs that affect attention and spatial cognition may have an impact on this region."
+        }
+    },
+    "Brodmann.2": {
+        "Name": "Brodmann.2",
+        "Synonym": [
+            "Area 2",
+            "BA2"
+        ],
+        "Description": "Brodmann area 2 is a region in the parietal lobe of the brain. It is located in the postcentral gyrus, just posterior to the primary somatosensory cortex (Brodmann area 1).",
+        "Relational corpus": {
+            "Brain regions": "Brodmann area 2 is closely associated with the primary somatosensory cortex (Brodmann area 1) and the secondary somatosensory cortex (Brodmann area 5). It also has connections to the premotor cortex, the supplementary motor area, and the inferior parietal lobule.",
+            "Diseases": "",
+            "Cognition": "Brodmann area 2 is involved in somatosensory processing, particularly in the perception of touch and proprioception. It is also involved in spatial awareness and body image.",
+            "Emotions": "",
+            "Behaviors": "Brodmann area 2 is involved in motor planning and execution, as well as in the integration of sensory information for movement. It is also involved in the perception of pain and the regulation of attention.",
+            "Drugs": ""
+        }
+    },
+    "Brodmann.31": {
+        "Name": "Brodmann.31",
+        "Synonym": [
+            "BA31",
+            "Dorsal Posterior Cingulate Cortex",
+            "Precuneus"
+        ],
+        "Description": "Brodmann.31 is a region located in the posterior cingulate cortex, specifically in the precuneus. It is involved in various cognitive processes such as self-referential processing, episodic memory retrieval, visuospatial processing, and attentional control.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.31 is functionally connected to other regions in the default mode network, such as the medial prefrontal cortex, posterior inferior parietal lobule, and hippocampus. It also has connections to the dorsal attention network and the salience network.",
+            "Diseases": "Brodmann.31 has been implicated in various neurological and psychiatric disorders such as Alzheimer's disease, schizophrenia, depression, and anxiety disorders.",
+            "Cognition": "Brodmann.31 is involved in self-referential processing, episodic memory retrieval, visuospatial processing, and attentional control.",
+            "Emotions": "Brodmann.31 has been associated with emotional processing, particularly in the context of self-referential emotional stimuli.",
+            "Behaviors": "Brodmann.31 is involved in various behaviors such as self-referential processing, memory retrieval, attentional control, and visuospatial processing.",
+            "Drugs": "There is limited research on the effects of drugs on Brodmann.31 specifically, but some studies have shown that certain drugs such as ketamine and psilocybin can modulate activity in the default mode network, which includes Brodmann.31."
+        }
+    },
+    "Brodmann.40": {
+        "Name": "Brodmann.40",
+        "Synonym": [
+            "Angular gyrus"
+        ],
+        "Description": "Brodmann.40 is a region in the parietal lobe of the brain, located in the posterior part of the inferior parietal lobule. It is involved in a variety of cognitive processes, including language processing, spatial awareness, and attention.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.40 is connected to several other brain regions, including the superior temporal gyrus, the middle temporal gyrus, and the inferior parietal lobule. It is also part of the default mode network, a group of brain regions that are active when the brain is at rest.",
+            "Diseases": "Damage to Brodmann.40 can result in a condition known as Gerstmann syndrome, which is characterized by difficulty with writing, difficulty with left-right orientation, difficulty with calculation, and difficulty with finger recognition. Brodmann.40 has also been implicated in several other neurological and psychiatric disorders, including schizophrenia, Alzheimer's disease, and autism spectrum disorder.",
+            "Cognition": "Brodmann.40 is involved in a variety of cognitive processes, including language processing, spatial awareness, and attention. It has been shown to be particularly important for semantic processing, which involves the comprehension of meaning in language.",
+            "Emotions": "Brodmann.40 has been implicated in emotional processing, particularly in the processing of negative emotions such as fear and disgust.",
+            "Behaviors": "Brodmann.40 is involved in a variety of behaviors, including language production and comprehension, spatial navigation, and attention. It has also been implicated in social cognition, including the ability to understand the mental states of others.",
+            "Drugs": "There are no known drugs that specifically target Brodmann.40. However, drugs that affect neurotransmitter systems such as dopamine, serotonin, and acetylcholine have been shown to affect cognitive processes that involve Brodmann.40."
+        }
+    },
+    "Brodmann.44": {
+        "Name": "Brodmann.44",
+        "Synonym": [
+            "Broca's area",
+            "Left inferior frontal gyrus"
+        ],
+        "Description": "Brodmann.44, also known as Broca's area, is a region in the left inferior frontal gyrus of the brain. It is responsible for language production and comprehension, as well as other cognitive functions such as working memory and decision making.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.44 is closely associated with other language-related brain regions such as Wernicke's area and the arcuate fasciculus. It also has connections to the prefrontal cortex, basal ganglia, and thalamus.",
+            "Diseases": "Damage to Brodmann.44 can result in a language disorder called Broca's aphasia, which affects the ability to produce speech. It has also been implicated in other disorders such as schizophrenia and depression.",
+            "Cognition": "Brodmann.44 plays a crucial role in language processing, including speech production and comprehension. It is also involved in working memory and decision making.",
+            "Emotions": "Brodmann.44 has been linked to emotional processing, particularly in the context of language and communication.",
+            "Behaviors": "Brodmann.44 is involved in a wide range of behaviors related to language and communication, including speaking, writing, and reading. It also plays a role in decision making and problem solving.",
+            "Drugs": "There are no drugs specifically targeted at Brodmann.44, but medications that affect neurotransmitter systems such as dopamine and serotonin may indirectly impact its function."
+        }
+    },
+    "Brodmann.45": {
+        "Name": "Brodmann.45",
+        "Synonym": [
+            "BA45",
+            "Broca's area"
+        ],
+        "Description": "Brodmann.45 is a region in the frontal lobe of the brain that is responsible for language production and comprehension. It is named after the French neurologist Paul Broca, who first identified its importance in language processing.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.44, Brodmann.47, Wernicke's area, angular gyrus",
+            "Diseases": "Broca's aphasia, expressive aphasia, apraxia of speech",
+            "Cognition": "language processing, speech production, syntax, semantics",
+            "Emotions": "none specifically associated",
+            "Behaviors": "speech production, language comprehension",
+            "Drugs": "none specifically associated"
+        }
+    },
+    "Brodmann.23": {
+        "Name": "Brodmann.23",
+        "Synonym": [
+            "BA23",
+            "Posterior cingulate cortex"
+        ],
+        "Description": "Brodmann.23 is a region of the brain located in the posterior cingulate cortex. It is involved in various cognitive and emotional processes.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.23 is connected to other regions of the default mode network, including the medial prefrontal cortex and the inferior parietal lobule. It also has connections to the hippocampus and amygdala.",
+            "Diseases": "Brodmann.23 has been implicated in various neurological and psychiatric disorders, including Alzheimer's disease, depression, and schizophrenia.",
+            "Cognition": "Brodmann.23 is involved in various cognitive processes, including memory retrieval, attention, and self-referential processing.",
+            "Emotions": "Brodmann.23 is also involved in emotional processing, particularly in the regulation of negative emotions.",
+            "Behaviors": "Brodmann.23 has been associated with various behaviors, including social cognition, empathy, and self-awareness.",
+            "Drugs": "There are currently no drugs specifically targeting Brodmann.23, but various medications used to treat neurological and psychiatric disorders may indirectly affect this region."
+        }
+    },
+    "Brodmann.39": {
+        "Name": "Brodmann.39",
+        "Synonym": [
+            "Angular gyrus"
+        ],
+        "Description": "Brodmann.39 is a region in the parietal lobe of the brain, located in the posterior part of the inferior parietal lobule. It is involved in a variety of cognitive processes, including language comprehension, spatial awareness, and attention.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.39 is closely associated with other regions in the inferior parietal lobule, including Brodmann.40 and Brodmann.7. It also has connections to the temporal lobe and the occipital lobe. ",
+            "Diseases": "Damage to Brodmann.39 can result in a condition known as Gerstmann syndrome, which is characterized by difficulty with writing, difficulty with left-right orientation, difficulty with calculation, and difficulty with finger recognition. Brodmann.39 has also been implicated in a number of other neurological and psychiatric disorders, including Alzheimer's disease, schizophrenia, and depression. ",
+            "Cognition": "Brodmann.39 is involved in a number of cognitive processes, including language comprehension, spatial awareness, and attention. It has been shown to be particularly important for the processing of written language, and damage to this region can result in difficulty with reading and writing. ",
+            "Emotions": "Brodmann.39 has been implicated in the processing of emotional information, particularly in the context of language comprehension. It has been shown to be involved in the processing of both positive and negative emotional stimuli. ",
+            "Behaviors": "Brodmann.39 is involved in a number of behaviors, including language processing, spatial awareness, and attention. It has also been implicated in the processing of emotional information, particularly in the context of language comprehension. ",
+            "Drugs": "There is currently no specific drug that targets Brodmann.39. However, drugs that affect the levels of neurotransmitters such as dopamine, serotonin, and norepinephrine may have an impact on the functioning of this region."
+        }
+    },
+    "Brodmann.43": {
+        "Name": "Brodmann.43",
+        "Synonym": [
+            "Gustatory cortex"
+        ],
+        "Description": "Brodmann.43 is a region of the brain responsible for processing taste information. It is located in the insula, a fold of cortex that lies deep within the lateral sulcus of the brain.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.43 is closely associated with other regions of the insula, as well as the primary gustatory cortex in the parietal lobe. It also has connections to the amygdala, hypothalamus, and prefrontal cortex.",
+            "Diseases": "Damage to Brodmann.43 can result in taste disorders such as ageusia or dysgeusia. It has also been implicated in disorders such as anorexia nervosa and bulimia.",
+            "Cognition": "Brodmann.43 plays a role in the perception and identification of taste stimuli, as well as the integration of taste information with other sensory modalities such as smell and texture.",
+            "Emotions": "Brodmann.43 has been implicated in the emotional response to taste stimuli, particularly in the context of food reward and aversion.",
+            "Behaviors": "Brodmann.43 is involved in the regulation of feeding behavior and appetite, as well as the hedonic aspects of food consumption.",
+            "Drugs": "Certain drugs, such as opioids and cannabinoids, can modulate activity in Brodmann.43 and alter the perception of taste."
+        }
+    },
+    "Brodmann.19": {
+        "Name": "Brodmann.19",
+        "Synonym": [
+            "V3",
+            "Visual area 3"
+        ],
+        "Description": "Brodmann.19 is a region in the occipital lobe of the brain that is responsible for processing visual information from the eyes. It is part of the primary visual cortex and is involved in the perception of color, form, and motion.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.19 is connected to other regions of the visual cortex, including Brodmann.17 and Brodmann.18. It also receives input from the thalamus, which relays visual information from the eyes.",
+            "Diseases": "Damage to Brodmann.19 can result in visual impairments, such as color blindness or difficulty perceiving motion. It may also be affected in conditions such as migraine or epilepsy.",
+            "Cognition": "Brodmann.19 plays a crucial role in visual perception and is involved in the processing of visual information. It is also involved in the recognition of objects and faces.",
+            "Emotions": "Brodmann.19 is not directly involved in emotions, but it may be indirectly affected by emotional states that influence visual perception.",
+            "Behaviors": "Brodmann.19 is involved in a wide range of visual behaviors, including reading, recognizing faces, and navigating through the environment.",
+            "Drugs": "There are no specific drugs that target Brodmann.19, but drugs that affect visual perception, such as hallucinogens or stimulants, may indirectly affect this region."
+        }
+    },
+    "Brodmann.47": {
+        "Name": "Brodmann.47",
+        "Synonym": [
+            "BA47",
+            "Pars orbitalis"
+        ],
+        "Description": "Brodmann.47 is a region in the prefrontal cortex of the brain, located in the inferior frontal gyrus. It is involved in language processing, decision making, and social cognition.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.47 is connected to other regions in the prefrontal cortex, such as Brodmann.44 and Brodmann.45. It also has connections to the temporal lobe and the limbic system.",
+            "Diseases": "Brodmann.47 dysfunction has been implicated in various disorders, including schizophrenia, autism, and depression.",
+            "Cognition": "Brodmann.47 is involved in language processing, semantic memory, and decision making.",
+            "Emotions": "Brodmann.47 is involved in social cognition, including the ability to understand and interpret the emotions of others.",
+            "Behaviors": "Brodmann.47 is involved in decision making, social behavior, and language production.",
+            "Drugs": "There is limited research on drugs that specifically target Brodmann.47. However, drugs that affect neurotransmitters such as dopamine and serotonin may indirectly affect this region."
+        }
+    },
+    "Brodmann.41": {
+        "Name": "Brodmann.41",
+        "Synonym": [
+            "Primary auditory cortex",
+            "A1"
+        ],
+        "Description": "Brodmann.41 is a region of the brain located in the temporal lobe that is responsible for processing auditory information. It is the primary auditory cortex and is involved in the perception of sound.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.41 is connected to other regions of the auditory pathway, including the thalamus, inferior colliculus, and superior temporal gyrus. It also has connections to other sensory regions, such as the visual cortex and somatosensory cortex.",
+            "Diseases": "Damage to Brodmann.41 can result in various auditory processing disorders, such as tinnitus, hyperacusis, and auditory agnosia. It is also implicated in certain neurological disorders, such as schizophrenia and autism spectrum disorder.",
+            "Cognition": "Brodmann.41 plays a role in auditory perception, including sound localization, pitch discrimination, and speech perception. It is also involved in auditory memory and learning.",
+            "Emotions": "Brodmann.41 is involved in the processing of emotional sounds, such as laughter and crying. It is also implicated in the perception of music and the emotional response to music.",
+            "Behaviors": "Brodmann.41 is involved in various auditory behaviors, such as speech production and language comprehension. It is also involved in the perception of environmental sounds and the detection of auditory stimuli.",
+            "Drugs": "Certain drugs, such as benzodiazepines and opioids, can affect auditory processing and may have an impact on Brodmann.41. However, more research is needed to fully understand the effects of drugs on this brain region."
+        }
+    },
+    "Brodmann.30": {
+        "Name": "Brodmann.30",
+        "Synonym": [
+            "BA30",
+            "Anterior cingulate cortex"
+        ],
+        "Description": "Brodmann.30 is a region of the brain located in the anterior cingulate cortex, which is part of the limbic system. It is involved in a variety of cognitive and emotional processes, including attention, decision-making, empathy, and social behavior.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.30 is closely connected to other regions of the limbic system, including the amygdala, hippocampus, and prefrontal cortex. It also has connections to the basal ganglia and thalamus.",
+            "Diseases": "Brodmann.30 has been implicated in a number of psychiatric and neurological disorders, including depression, anxiety, schizophrenia, and Alzheimer's disease.",
+            "Cognition": "Brodmann.30 is involved in a variety of cognitive processes, including attention, decision-making, and working memory.",
+            "Emotions": "Brodmann.30 is involved in the regulation of emotions, including empathy and social behavior.",
+            "Behaviors": "Brodmann.30 is involved in a variety of behaviors, including decision-making, social behavior, and empathy.",
+            "Drugs": "There are a number of drugs that can affect Brodmann.30, including antidepressants, antipsychotics, and anxiolytics."
+        }
+    },
+    "Brodmann.22": {
+        "Name": "Brodmann.22",
+        "Synonym": [
+            "Superior temporal gyrus"
+        ],
+        "Description": "Brodmann.22 is a region of the brain located in the superior temporal gyrus, which is responsible for processing auditory information and language comprehension. It is divided into two subregions, Brodmann area 22a and Brodmann area 22b.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.22 is connected to other regions of the brain involved in language processing, such as Broca's area and Wernicke's area. It also has connections to the prefrontal cortex, which is involved in executive functions and decision-making.",
+            "Diseases": "Damage to Brodmann.22 can result in language disorders such as aphasia, as well as auditory processing disorders. It has also been implicated in schizophrenia and autism spectrum disorders.",
+            "Cognition": "Brodmann.22 is involved in language comprehension and semantic processing. It is also involved in working memory and attention.",
+            "Emotions": "Brodmann.22 has been implicated in emotional processing, particularly in the processing of emotional prosody in speech.",
+            "Behaviors": "Brodmann.22 is involved in language production and comprehension, as well as auditory processing. It is also involved in working memory and attention.",
+            "Drugs": "There are no specific drugs that target Brodmann.22, but drugs that affect neurotransmitters such as dopamine and serotonin can have an impact on language processing and emotional regulation."
+        }
+    },
+    "Brodmann.42": {
+        "Name": "Brodmann.42",
+        "Synonym": [
+            "Auditory Association Cortex",
+            "Wernicke's Area"
+        ],
+        "Description": "Brodmann.42 is a region of the brain located in the posterior part of the superior temporal gyrus in the dominant hemisphere. It is involved in language comprehension and processing of auditory information.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.41, Brodmann.22, Brodmann.44, Brodmann.45, Brodmann.46",
+            "Diseases": "Wernicke's aphasia, auditory agnosia, schizophrenia, autism spectrum disorder",
+            "Cognition": "language comprehension, auditory processing, semantic memory, working memory",
+            "Emotions": "none specifically associated",
+            "Behaviors": "language production, reading, writing, auditory perception",
+            "Drugs": "none specifically associated"
+        }
+    },
+    "Brodmann.21": {
+        "Name": "Brodmann.21",
+        "Synonym": [
+            "Auditory cortex, Primary auditory cortex"
+        ],
+        "Description": "Brodmann.21 is a region of the cerebral cortex located in the temporal lobe of the brain. It is responsible for processing auditory information and is considered the primary auditory cortex.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.21 is connected to other regions of the auditory pathway, including the thalamus, inferior colliculus, and superior temporal gyrus. It also has connections to other sensory and motor regions of the brain.",
+            "Diseases": "Damage to Brodmann.21 can result in various auditory processing disorders, including auditory agnosia and cortical deafness. It has also been implicated in tinnitus and schizophrenia.",
+            "Cognition": "Brodmann.21 plays a role in auditory perception, including sound localization, discrimination, and recognition. It is also involved in language processing, particularly in the comprehension of spoken language.",
+            "Emotions": "Brodmann.21 has been linked to emotional processing of auditory stimuli, including the perception of emotional tone in speech.",
+            "Behaviors": "Brodmann.21 is involved in a variety of auditory behaviors, including speech perception, music perception, and sound localization. It is also involved in auditory attention and the ability to filter out irrelevant sounds.",
+            "Drugs": "There are no specific drugs that target Brodmann.21, but drugs that affect neurotransmitters such as dopamine and serotonin can have an impact on auditory processing and perception."
+        }
+    },
+    "Brodmann.38": {
+        "Name": "Brodmann.38",
+        "Synonym": [
+            "BA38",
+            "Inferior temporal gyrus"
+        ],
+        "Description": "Brodmann.38 is a region located in the inferior temporal gyrus of the brain. It is involved in visual processing and recognition of complex visual stimuli such as faces and objects.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.38 is connected to other regions in the visual processing pathway such as the primary visual cortex (Brodmann.17) and the middle temporal gyrus (Brodmann.21). It also has connections to the prefrontal cortex, which is involved in higher-order cognitive processes.",
+            "Diseases": "Damage to Brodmann.38 can result in visual agnosia, a condition where individuals are unable to recognize objects despite having intact vision. It has also been implicated in disorders such as autism and schizophrenia.",
+            "Cognition": "Brodmann.38 plays a role in visual cognition, particularly in the recognition of complex visual stimuli such as faces and objects.",
+            "Emotions": "Brodmann.38 has been implicated in emotional processing, particularly in the recognition of facial expressions.",
+            "Behaviors": "Brodmann.38 is involved in a variety of behaviors related to visual processing, including object recognition, face recognition, and visual memory.",
+            "Drugs": "There are currently no drugs specifically targeting Brodmann.38, but drugs that affect visual processing and cognition may indirectly impact this region."
+        }
+    },
+    "Brodmann.37": {
+        "Name": "Brodmann.37",
+        "Synonym": [
+            "BA37",
+            "Inferior temporal gyrus"
+        ],
+        "Description": "Brodmann.37 is a region in the inferior temporal gyrus of the brain, located in the occipitotemporal cortex. It is involved in visual perception and recognition of complex visual stimuli, such as faces and objects.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.37 is connected to other regions in the occipitotemporal cortex, including Brodmann.19 and Brodmann.20. It also has connections to the fusiform gyrus and the parahippocampal gyrus. ",
+            "Diseases": "Damage to Brodmann.37 can result in visual agnosia, a condition in which a person is unable to recognize objects despite having intact vision. It has also been implicated in disorders such as Alzheimer's disease and schizophrenia.",
+            "Cognition": "Brodmann.37 is involved in visual perception and recognition of complex visual stimuli, such as faces and objects. It is also involved in the processing of visual information related to color and shape.",
+            "Emotions": "Brodmann.37 has been implicated in the processing of emotional information conveyed by facial expressions.",
+            "Behaviors": "Brodmann.37 is involved in the recognition of faces and objects, which is essential for social interactions and daily activities. It is also involved in the processing of visual information related to color and shape, which is important for tasks such as object recognition and navigation.",
+            "Drugs": "There are no known drugs that specifically target Brodmann.37. However, drugs that affect visual perception and recognition, such as hallucinogens, can indirectly affect this region."
+        }
+    },
+    "Brodmann.20": {
+        "Name": "Brodmann.20",
+        "Synonym": [
+            "Temporal pole"
+        ],
+        "Description": "Brodmann.20 is a region located in the temporal lobe of the brain, specifically in the anterior portion of the temporal pole. It is involved in various cognitive and emotional processes.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.20 is connected to other regions in the temporal lobe, such as the hippocampus, amygdala, and entorhinal cortex. It also has connections to the prefrontal cortex and the parietal cortex.",
+            "Diseases": "Brodmann.20 has been implicated in various neurological and psychiatric disorders, including Alzheimer's disease, schizophrenia, and bipolar disorder.",
+            "Cognition": "Brodmann.20 is involved in various cognitive processes, such as memory, language, and social cognition. It has been shown to be important for semantic processing and the retrieval of autobiographical memories.",
+            "Emotions": "Brodmann.20 is also involved in emotional processing, particularly in the recognition and regulation of emotions. It has been shown to be important for empathy and theory of mind.",
+            "Behaviors": "Brodmann.20 is involved in various behaviors, such as decision-making, social behavior, and self-awareness. It has been shown to be important for moral reasoning and the ability to understand the perspectives of others.",
+            "Drugs": "There are currently no drugs specifically targeting Brodmann.20. However, drugs that affect neurotransmitter systems, such as dopamine and serotonin, may indirectly affect the function of this region."
+        }
+    },
+    "Brodmann.32": {
+        "Name": "Brodmann.32",
+        "Synonym": [
+            "BA32",
+            "anterior cingulate cortex"
+        ],
+        "Description": "Brodmann.32 is a region of the brain located in the anterior cingulate cortex. It is involved in a variety of cognitive and emotional processes, including attention, decision-making, and emotion regulation.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.32 is closely connected to other regions of the prefrontal cortex, as well as the amygdala, hippocampus, and thalamus.",
+            "Diseases": "Brodmann.32 dysfunction has been implicated in a number of psychiatric disorders, including depression, anxiety, and schizophrenia.",
+            "Cognition": "Brodmann.32 is involved in a range of cognitive processes, including attention, working memory, and decision-making.",
+            "Emotions": "Brodmann.32 plays a key role in emotion regulation, particularly in the regulation of negative emotions such as fear and anxiety.",
+            "Behaviors": "Brodmann.32 is involved in a range of behaviors, including social behavior, impulse control, and risk-taking.",
+            "Drugs": "There is evidence to suggest that certain drugs, such as selective serotonin reuptake inhibitors (SSRIs), can modulate activity in Brodmann.32 and improve symptoms of depression and anxiety."
+        }
+    },
+    "Brodmann.24": {
+        "Name": "Brodmann.24",
+        "Synonym": [
+            "Area 24",
+            "BA24"
+        ],
+        "Description": "Brodmann.24 is a region in the prefrontal cortex of the brain, located in the anterior cingulate cortex. It is involved in various cognitive and emotional processes.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.24 is connected to other regions in the prefrontal cortex, such as Brodmann.25 and Brodmann.32. It also has connections to the amygdala, hippocampus, and thalamus.",
+            "Diseases": "Brodmann.24 has been implicated in various psychiatric disorders, including depression, anxiety, and schizophrenia. Dysfunction in this region has also been associated with chronic pain and addiction.",
+            "Cognition": "Brodmann.24 is involved in various cognitive processes, including decision-making, attention, and working memory. It is also involved in social cognition and empathy.",
+            "Emotions": "Brodmann.24 is involved in emotional processing, particularly in the regulation of negative emotions such as fear and anxiety. It is also involved in empathy and social emotions.",
+            "Behaviors": "Brodmann.24 is involved in various behaviors, including decision-making, impulse control, and social behavior. Dysfunction in this region has been associated with impulsive and aggressive behavior.",
+            "Drugs": "There are no specific drugs that target Brodmann.24, but various medications used to treat psychiatric disorders may affect this region indirectly. For example, antidepressants and antipsychotics have been shown to modulate activity in the anterior cingulate cortex, which includes Brodmann.24."
+        }
+    },
+    "Brodmann.10": {
+        "Name": "Brodmann.10",
+        "Synonym": [
+            "BA10",
+            "Frontopolar cortex",
+            "Rostral prefrontal cortex"
+        ],
+        "Description": "Brodmann.10 is a region of the prefrontal cortex located in the frontopolar area of the brain. It is involved in a variety of cognitive processes, including decision-making, working memory, and attentional control.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.10 is connected to several other brain regions, including the dorsolateral prefrontal cortex, anterior cingulate cortex, and orbitofrontal cortex. It also has connections to the parietal cortex and temporal cortex.",
+            "Diseases": "Brodmann.10 has been implicated in several neurological and psychiatric disorders, including schizophrenia, bipolar disorder, and depression. Dysfunction in this region has also been associated with executive dysfunction and cognitive decline in aging.",
+            "Cognition": "Brodmann.10 is involved in a variety of cognitive processes, including decision-making, working memory, and attentional control. It is also thought to play a role in social cognition and theory of mind.",
+            "Emotions": "Brodmann.10 has been implicated in emotional regulation and processing. It is thought to play a role in the regulation of negative emotions, such as fear and anxiety.",
+            "Behaviors": "Brodmann.10 is involved in a variety of behaviors, including decision-making, planning, and problem-solving. Dysfunction in this region has been associated with impulsivity and poor decision-making.",
+            "Drugs": "There is limited research on the effects of drugs on Brodmann.10 specifically. However, drugs that affect dopamine and serotonin levels in the brain, such as antidepressants and antipsychotics, may indirectly affect this region."
+        }
+    },
+    "Brodmann.25": {
+        "Name": "Brodmann.25",
+        "Synonym": [
+            "BA25",
+            "subgenual anterior cingulate cortex"
+        ],
+        "Description": "Brodmann.25 is a region of the brain located in the subgenual anterior cingulate cortex. It is involved in regulating emotional responses and has been implicated in depression and anxiety disorders.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.25 is connected to other regions of the limbic system, including the amygdala, hippocampus, and prefrontal cortex.",
+            "Diseases": "Brodmann.25 has been implicated in depression and anxiety disorders.",
+            "Cognition": "Brodmann.25 is involved in regulating emotional responses, which can impact cognitive processes such as decision-making and attention.",
+            "Emotions": "Brodmann.25 is involved in regulating emotional responses, particularly negative emotions such as fear and sadness.",
+            "Behaviors": "Brodmann.25 has been associated with behaviors related to depression and anxiety, such as social withdrawal and avoidance.",
+            "Drugs": "Some antidepressant medications, such as selective serotonin reuptake inhibitors (SSRIs), have been shown to affect activity in Brodmann.25."
+        }
+    },
+    "Brodmann.11": {
+        "Name": "Brodmann.11",
+        "Synonym": [
+            "BA11",
+            "Frontal pole"
+        ],
+        "Description": "Brodmann area 11 is located in the frontal lobe, specifically in the frontal pole. It is involved in executive functions such as decision making, planning, and working memory.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann area 11 is connected to other areas in the prefrontal cortex, such as Brodmann area 10 and 46. It also has connections to the anterior cingulate cortex and the orbitofrontal cortex.",
+            "Diseases": "Lesions in Brodmann area 11 have been associated with deficits in executive functions, such as in patients with frontotemporal dementia. It has also been implicated in the pathophysiology of depression and bipolar disorder.",
+            "Cognition": "Brodmann area 11 is involved in higher-order cognitive processes such as decision making, planning, and working memory.",
+            "Emotions": "Brodmann area 11 has been implicated in the regulation of emotions, particularly in the context of decision making and social cognition.",
+            "Behaviors": "Brodmann area 11 is involved in the regulation of complex behaviors such as social cognition, empathy, and moral reasoning.",
+            "Drugs": "There is limited research on the effects of drugs on Brodmann area 11 specifically, but drugs that affect the prefrontal cortex as a whole, such as stimulants and antidepressants, may have an impact on its function."
+        }
+    },
+    "Brodmann.46": {
+        "Name": "Brodmann.46",
+        "Synonym": [
+            "Dorsolateral prefrontal cortex",
+            "DLPFC"
+        ],
+        "Description": "Brodmann.46 is a region of the prefrontal cortex located in the dorsolateral area. It is involved in executive functions such as working memory, cognitive flexibility, planning, decision-making, and attention control.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.46 is connected to other prefrontal regions such as the ventrolateral prefrontal cortex, anterior cingulate cortex, and orbitofrontal cortex. It also has connections with the parietal cortex and temporal cortex.",
+            "Diseases": "Brodmann.46 dysfunction has been implicated in several psychiatric and neurological disorders such as schizophrenia, depression, bipolar disorder, and Alzheimer's disease.",
+            "Cognition": "Brodmann.46 plays a crucial role in higher cognitive functions such as working memory, attention, planning, and decision-making.",
+            "Emotions": "Brodmann.46 is involved in regulating emotional responses and has been linked to emotional regulation and empathy.",
+            "Behaviors": "Brodmann.46 is involved in regulating complex behaviors such as social cognition, language processing, and problem-solving.",
+            "Drugs": "Several drugs have been shown to modulate Brodmann.46 activity, including dopamine agonists, serotonin reuptake inhibitors, and antipsychotic medications."
+        }
+    },
+    "Brodmann.17": {
+        "Name": "Brodmann.17",
+        "Synonym": [
+            "Primary visual cortex",
+            "V1"
+        ],
+        "Description": "Brodmann.17 is a region located in the occipital lobe of the brain and is responsible for processing visual information from the eyes.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.18, Brodmann.19, superior colliculus, lateral geniculate nucleus",
+            "Diseases": "Visual agnosia, cortical blindness, amblyopia",
+            "Cognition": "Visual perception, object recognition, spatial awareness",
+            "Emotions": "Not directly associated with emotions",
+            "Behaviors": "Visual attention, eye movements, visual memory",
+            "Drugs": "Psychedelics such as LSD and psilocybin can affect activity in Brodmann.17 and alter visual perception."
+        }
+    },
+    "Brodmann.18": {
+        "Name": "Brodmann.18",
+        "Synonym": [
+            "Visual Association Cortex"
+        ],
+        "Description": "Brodmann.18 is a region of the brain located in the occipital lobe, responsible for processing visual information from the primary visual cortex and integrating it with other sensory information.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.18 is closely connected with other visual processing regions such as Brodmann.17 (primary visual cortex), Brodmann.19 (ventral visual stream), and the parietal lobe. It also has connections with the prefrontal cortex, which is involved in higher-order cognitive functions.",
+            "Diseases": "Damage to Brodmann.18 can result in visual agnosia, a condition where a person is unable to recognize objects despite having intact vision. It is also implicated in visual hallucinations in conditions such as Charles Bonnet syndrome and schizophrenia.",
+            "Cognition": "Brodmann.18 plays a role in visual perception, attention, and memory. It is also involved in higher-order cognitive functions such as decision-making and problem-solving.",
+            "Emotions": "Brodmann.18 is not directly involved in emotional processing, but it can indirectly influence emotions through its connections with other brain regions such as the amygdala and prefrontal cortex.",
+            "Behaviors": "Brodmann.18 is involved in a wide range of behaviors related to visual perception, including object recognition, spatial awareness, and motion perception. It is also involved in higher-order behaviors such as decision-making and problem-solving.",
+            "Drugs": "There are no specific drugs that target Brodmann.18, but drugs that affect visual processing such as hallucinogens and antipsychotics can indirectly affect its function."
+        }
+    },
+    "Brodmann.27": {
+        "Name": "Brodmann.27",
+        "Synonym": [
+            "Parahippocampal gyrus"
+        ],
+        "Description": "Brodmann.27 is a region of the brain located in the medial temporal lobe, adjacent to the hippocampus. It is involved in memory encoding and retrieval, spatial navigation, and perception of spatial relationships.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.27 is closely associated with the hippocampus, entorhinal cortex, and other regions of the medial temporal lobe. It also has connections to the prefrontal cortex, amygdala, and thalamus.",
+            "Diseases": "Damage to Brodmann.27 can result in memory impairment, spatial disorientation, and difficulty with navigation. It is also implicated in the pathology of Alzheimer's disease and other forms of dementia.",
+            "Cognition": "Brodmann.27 plays a critical role in memory formation and retrieval, particularly for spatial and contextual information. It is also involved in spatial navigation and perception of spatial relationships.",
+            "Emotions": "Brodmann.27 is not directly involved in emotional processing, but it is connected to the amygdala, which plays a key role in emotional regulation.",
+            "Behaviors": "Brodmann.27 is involved in a range of behaviors related to memory, spatial navigation, and perception of spatial relationships. Damage to this region can result in deficits in these areas.",
+            "Drugs": "There are no drugs specifically targeted at Brodmann.27, but drugs that affect memory and cognition, such as cholinesterase inhibitors, may indirectly impact this region."
+        }
+    },
+    "Brodmann.36": {
+        "Name": "Brodmann.36",
+        "Synonym": [
+            "BA36",
+            "Temporal pole"
+        ],
+        "Description": "Brodmann.36 is a region located in the temporal lobe of the brain, specifically in the anterior portion of the temporal pole. It is involved in various cognitive and emotional processes.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.36 is connected to other regions in the temporal lobe, such as the entorhinal cortex, parahippocampal gyrus, and amygdala. It also has connections to the prefrontal cortex and the hippocampus.",
+            "Diseases": "Brodmann.36 has been implicated in various neurological and psychiatric disorders, including Alzheimer's disease, schizophrenia, and bipolar disorder.",
+            "Cognition": "Brodmann.36 is involved in various cognitive processes, such as memory retrieval, semantic processing, and social cognition.",
+            "Emotions": "Brodmann.36 is also involved in emotional processing, particularly in the recognition and regulation of emotions.",
+            "Behaviors": "Brodmann.36 has been associated with various behaviors, such as social behavior, decision-making, and empathy.",
+            "Drugs": "There is limited research on the effects of drugs on Brodmann.36 specifically, but some studies have suggested that certain medications, such as antipsychotics and antidepressants, may affect the activity of this region."
+        }
+    },
+    "Brodmann.35": {
+        "Name": "Brodmann.35",
+        "Synonym": [
+            "Area 35",
+            "BA35"
+        ],
+        "Description": "Brodmann area 35 is a region in the parahippocampal gyrus of the brain. It is involved in memory encoding and retrieval, spatial navigation, and recognition of familiar objects and scenes.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann area 35 is closely associated with other regions in the parahippocampal gyrus, including Brodmann areas 28, 34, and 36. It also has connections to the hippocampus, amygdala, and prefrontal cortex.",
+            "Diseases": "Damage to Brodmann area 35 can result in memory impairment, particularly in the ability to form new memories. It has been implicated in Alzheimer's disease and other forms of dementia.",
+            "Cognition": "Brodmann area 35 plays a key role in memory encoding and retrieval, as well as spatial navigation and recognition of familiar objects and scenes.",
+            "Emotions": "Brodmann area 35 has been implicated in emotional processing, particularly in the recognition of emotional facial expressions.",
+            "Behaviors": "Brodmann area 35 is involved in a range of behaviors, including memory formation and retrieval, spatial navigation, and recognition of familiar objects and scenes.",
+            "Drugs": "There is limited research on the effects of drugs on Brodmann area 35 specifically, but drugs that affect memory and cognition may have an impact on this region."
+        }
+    },
+    "Brodmann.28": {
+        "Name": "Brodmann.28",
+        "Synonym": [
+            "Entorhinal cortex"
+        ],
+        "Description": "Brodmann.28 is a region of the brain located in the medial temporal lobe. It is involved in memory and spatial navigation.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.28 is closely associated with the hippocampus, parahippocampal gyrus, and other regions of the medial temporal lobe. It also has connections to the prefrontal cortex and other areas involved in executive function.",
+            "Diseases": "Brodmann.28 is implicated in Alzheimer's disease and other forms of dementia, as well as epilepsy and other neurological disorders.",
+            "Cognition": "Brodmann.28 plays a key role in memory formation and retrieval, as well as spatial navigation and perception.",
+            "Emotions": "Brodmann.28 may be involved in emotional processing, particularly in the context of memory and spatial context.",
+            "Behaviors": "Brodmann.28 is involved in a wide range of behaviors, including memory formation and retrieval, spatial navigation, and decision-making.",
+            "Drugs": "There are no drugs specifically targeting Brodmann.28, but drugs that affect memory and cognition, such as cholinesterase inhibitors, may indirectly affect this region."
+        }
+    },
+    "Brodmann.29": {
+        "Name": "Brodmann.29",
+        "Synonym": [
+            "Retrosplenial cortex"
+        ],
+        "Description": "Brodmann.29 is a region of the cerebral cortex located in the posterior cingulate gyrus. It is involved in spatial navigation, memory, and self-referential processing.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.29 is connected to the hippocampus, parahippocampal gyrus, and prefrontal cortex. It is also part of the default mode network.",
+            "Diseases": "Lesions in Brodmann.29 have been associated with spatial disorientation and memory deficits in Alzheimer's disease and other dementias.",
+            "Cognition": "Brodmann.29 is involved in spatial navigation, memory, and self-referential processing.",
+            "Emotions": "Brodmann.29 has been implicated in emotional processing and regulation.",
+            "Behaviors": "Brodmann.29 is involved in spatial navigation and memory, which are important for many behaviors such as finding one's way in a new environment.",
+            "Drugs": "There is limited research on drugs that specifically target Brodmann.29, but drugs that affect memory and spatial navigation may indirectly affect this region."
+        }
+    },
+    "Brodmann.26": {
+        "Name": "Brodmann.26",
+        "Synonym": [
+            "Area 26",
+            "Cingulate cortex, dorsal anterior part"
+        ],
+        "Description": "Brodmann.26 is a region of the cingulate cortex located in the dorsal anterior part. It is involved in various cognitive and emotional processes.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.26 is connected to other regions of the cingulate cortex, such as Brodmann.24 and Brodmann.32. It also has connections to the prefrontal cortex and the amygdala.",
+            "Diseases": "Brodmann.26 has been implicated in various psychiatric disorders, such as depression, anxiety, and schizophrenia.",
+            "Cognition": "Brodmann.26 is involved in various cognitive processes, such as attention, decision-making, and working memory.",
+            "Emotions": "Brodmann.26 is involved in the regulation of emotions, particularly in the processing of negative emotions.",
+            "Behaviors": "Brodmann.26 is involved in various behaviors, such as social behavior, empathy, and moral reasoning.",
+            "Drugs": "There is limited research on the effects of drugs on Brodmann.26 specifically, but some studies have suggested that antidepressants and antipsychotics may modulate activity in this region."
+        }
+    },
+    "Brodmann.33": {
+        "Name": "Brodmann.33",
+        "Synonym": [
+            "BA33",
+            "Frontal pole"
+        ],
+        "Description": "Brodmann.33 is a region located in the frontal lobe of the brain, specifically in the prefrontal cortex. It is involved in various cognitive processes such as decision making, planning, and working memory.",
+        "Relational corpus": {
+            "Brain regions": "Brodmann.33 is closely associated with other prefrontal cortex regions such as Brodmann.9 and Brodmann.10. It also has connections with the anterior cingulate cortex and the orbitofrontal cortex.",
+            "Diseases": "Damage to Brodmann.33 has been linked to deficits in executive function and decision making, which are common symptoms in patients with frontal lobe lesions. It has also been implicated in various psychiatric disorders such as depression and schizophrenia.",
+            "Cognition": "Brodmann.33 plays a crucial role in higher cognitive processes such as decision making, planning, and working memory. It is also involved in attentional control and cognitive flexibility.",
+            "Emotions": "Brodmann.33 has been linked to emotional regulation and social cognition. It is involved in the processing of emotional stimuli and the regulation of emotional responses.",
+            "Behaviors": "Brodmann.33 is involved in various behaviors such as decision making, planning, and working memory. It also plays a role in attentional control and cognitive flexibility.",
+            "Drugs": "There is limited research on the effects of drugs on Brodmann.33 specifically. However, drugs that affect the prefrontal cortex as a whole, such as stimulants and antidepressants, may have an impact on the cognitive processes associated with Brodmann.33."
+        }
+    }
+}

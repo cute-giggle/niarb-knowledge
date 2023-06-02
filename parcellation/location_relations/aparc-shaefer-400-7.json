@@ -1,0 +1,5194 @@
+{
+    "Bankssts": {
+        "7Networks_LH_SalVentAttn_TempOcc_1": {
+            "with1": 0.10108469882298639,
+            "with2": 0.5334957369062119,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_6": {
+            "with1": 0.0782367874451881,
+            "with2": 0.31186752529898804,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_7": {
+            "with1": 0.003000230786983614,
+            "with2": 0.01849217638691323,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_9": {
+            "with1": 0.0946226632817909,
+            "with2": 0.5183312262958281,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_10": {
+            "with1": 0.14562658666051234,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_Par_1": {
+            "with1": 0.070620816985922,
+            "with2": 0.46153846153846156,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_2": {
+            "with1": 0.00830833141010847,
+            "with2": 0.03761755485893417,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_8": {
+            "with1": 0.0879298407569813,
+            "with2": 0.6266447368421053,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_1": {
+            "with1": 0.0553888760673898,
+            "with2": 0.3827751196172249,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_2": {
+            "with1": 0.11816293561043158,
+            "with2": 0.8812392426850258,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_3": {
+            "with1": 0.022386337410570042,
+            "with2": 0.1773308957952468,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Par_1": {
+            "with1": 0.0009231479344564967,
+            "with2": 0.006666666666666667,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_7": {
+            "with1": 0.05192707131317794,
+            "with2": 0.5184331797235023,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_8": {
+            "with1": 0.16178167551350103,
+            "with2": 0.7481323372465315,
+            "forward": "most contain",
+            "backward": "most belong to"
+        }
+    },
+    "Caudal anterior cingulate": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.007220216606498195,
+            "with2": 0.0007878809583497476,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_1": {
+            "with1": 0.16967509025270758,
+            "with2": 0.5453586497890295,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_2": {
+            "with1": 0.04529044962257959,
+            "with2": 0.13582677165354332,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_Cing_1": {
+            "with1": 0.09058089924515918,
+            "with2": 0.416289592760181,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_12": {
+            "with1": 0.1634394486380046,
+            "with2": 0.5286624203821656,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_1": {
+            "with1": 0.19461765671151954,
+            "with2": 0.4386094674556213,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_2": {
+            "with1": 0.003938299967180834,
+            "with2": 0.01362088535754824,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_Cing_2": {
+            "with1": 0.05480800787659994,
+            "with2": 0.2950530035335689,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCmp_1": {
+            "with1": 0.08467344929438793,
+            "with2": 0.2838283828382838,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_3": {
+            "with1": 0.0003281916639317361,
+            "with2": 0.001049317943336831,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_6": {
+            "with1": 0.18542829012143092,
+            "with2": 0.9262295081967213,
+            "forward": "most contain",
+            "backward": "most belong to"
+        }
+    },
+    "Caudal middle frontal": {
+        "7Networks_LH_DorsAttn_FEF_1": {
+            "with1": 0.01590594744121715,
+            "with2": 0.17884914463452567,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_FEF_2": {
+            "with1": 0.06846473029045644,
+            "with2": 0.685595567867036,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_FEF_3": {
+            "with1": 0.015767634854771784,
+            "with2": 0.2289156626506024,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_FEF_4": {
+            "with1": 0.005532503457814661,
+            "with2": 0.043478260869565216,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_PrCv_1": {
+            "with1": 0.0030428769017980637,
+            "with2": 0.021890547263681594,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_PrCv_2": {
+            "with1": 0.0035961272475795295,
+            "with2": 0.041935483870967745,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_6": {
+            "with1": 0.033609958506224065,
+            "with2": 0.16243315508021391,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_7": {
+            "with1": 0.07538035961272475,
+            "with2": 0.9128978224455612,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Cont_PFCl_8": {
+            "with1": 0.005532503457814661,
+            "with2": 0.06622516556291391,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_16": {
+            "with1": 0.025726141078838173,
+            "with2": 0.27514792899408286,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_17": {
+            "with1": 0.11106500691562932,
+            "with2": 0.9828641370869033,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_20": {
+            "with1": 0.05864453665283541,
+            "with2": 0.6996699669966997,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_21": {
+            "with1": 0.0731673582295989,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_PFC_22": {
+            "with1": 0.021300138312586446,
+            "with2": 0.24213836477987422,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_FEF_1": {
+            "with1": 0.02392807745504841,
+            "with2": 0.18642241379310345,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_FEF_2": {
+            "with1": 0.03499308437067773,
+            "with2": 0.37042459736456806,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_PrCv_1": {
+            "with1": 0.006224066390041493,
+            "with2": 0.04356243949661181,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_PrC_1": {
+            "with1": 0.02074688796680498,
+            "with2": 0.2180232558139535,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_7": {
+            "with1": 0.0015214384508990318,
+            "with2": 0.015558698727015558,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_10": {
+            "with1": 0.07040110650069156,
+            "with2": 0.8914185639229422,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_PFCl_11": {
+            "with1": 0.004149377593360996,
+            "with2": 0.03942181340341656,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_12": {
+            "with1": 0.09280774550484094,
+            "with2": 0.8828947368421053,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_PFCl_13": {
+            "with1": 0.06127247579529737,
+            "with2": 0.9932735426008968,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_PFCl_14": {
+            "with1": 0.10484094052558783,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Cont_PFCl_15": {
+            "with1": 0.025034578146611343,
+            "with2": 0.218335343787696,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_10": {
+            "with1": 0.02116182572614108,
+            "with2": 0.13660714285714284,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_12": {
+            "with1": 0.016182572614107885,
+            "with2": 0.1553784860557769,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Cuneus": {
+        "7Networks_LH_Vis_15": {
+            "with1": 0.0018359853121175031,
+            "with2": 0.006764374295377677,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_18": {
+            "with1": 0.03610771113831089,
+            "with2": 0.14320388349514562,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_21": {
+            "with1": 0.040697674418604654,
+            "with2": 0.11242603550295859,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_22": {
+            "with1": 0.023255813953488372,
+            "with2": 0.08491620111731843,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_24": {
+            "with1": 0.0397796817625459,
+            "with2": 0.16149068322981366,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_25": {
+            "with1": 0.15973072215422277,
+            "with2": 0.7467811158798283,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Vis_26": {
+            "with1": 0.15758873929008568,
+            "with2": 0.7162726008344924,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Vis_30": {
+            "with1": 0.0397796817625459,
+            "with2": 0.25096525096525096,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_15": {
+            "with1": 0.036413708690330476,
+            "with2": 0.08427762039660057,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_19": {
+            "with1": 0.02968176254589963,
+            "with2": 0.07008670520231214,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_20": {
+            "with1": 0.0012239902080783353,
+            "with2": 0.004282655246252677,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_23": {
+            "with1": 0.07833537331701346,
+            "with2": 0.36415362731152207,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_24": {
+            "with1": 0.11321909424724602,
+            "with2": 0.5692307692307692,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_25": {
+            "with1": 0.17931456548347613,
+            "with2": 0.9865319865319865,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Vis_28": {
+            "with1": 0.05385556915544676,
+            "with2": 0.2983050847457627,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_29": {
+            "with1": 0.009179926560587515,
+            "with2": 0.039318479685452164,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Entorhinal": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.016467065868263474,
+            "with2": 0.0011818214375246214,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_2": {
+            "with1": 0.13622754491017963,
+            "with2": 0.3536269430051813,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_3": {
+            "with1": 0.3148702594810379,
+            "with2": 0.7011111111111111,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Limbic_TempPole_7": {
+            "with1": 0.016467065868263474,
+            "with2": 0.035869565217391305,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_8": {
+            "with1": 0.07634730538922156,
+            "with2": 0.2311178247734139,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_1": {
+            "with1": 0.27644710578842313,
+            "with2": 0.44641418211120065,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_4": {
+            "with1": 0.0014970059880239522,
+            "with2": 0.0031982942430703624,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_5": {
+            "with1": 0.046906187624750496,
+            "with2": 0.1111111111111111,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_7": {
+            "with1": 0.11477045908183632,
+            "with2": 0.29336734693877553,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Fusiform": {
+        "7Networks_LH_Vis_1": {
+            "with1": 0.06688,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Vis_2": {
+            "with1": 0.05130666666666667,
+            "with2": 0.4211908931698774,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_3": {
+            "with1": 0.06453333333333333,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Vis_4": {
+            "with1": 0.03765333333333333,
+            "with2": 0.35124378109452736,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_5": {
+            "with1": 0.04085333333333333,
+            "with2": 0.5106666666666667,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_6": {
+            "with1": 0.020266666666666665,
+            "with2": 0.3345070422535211,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_8": {
+            "with1": 0.02688,
+            "with2": 0.2954279015240328,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_1": {
+            "with1": 0.031893333333333336,
+            "with2": 0.4776357827476038,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_2": {
+            "with1": 0.029013333333333332,
+            "with2": 0.28362877997914493,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_1": {
+            "with1": 0.03626666666666667,
+            "with2": 0.3958090803259604,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_2": {
+            "with1": 0.013866666666666666,
+            "with2": 0.16839378238341968,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_3": {
+            "with1": 0.01984,
+            "with2": 0.20666666666666667,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_5": {
+            "with1": 0.06357333333333333,
+            "with2": 0.6898148148148148,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_1": {
+            "with1": 0.07328,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Vis_2": {
+            "with1": 0.031573333333333335,
+            "with2": 0.3193096008629989,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_3": {
+            "with1": 0.04906666666666667,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Vis_4": {
+            "with1": 0.044373333333333334,
+            "with2": 0.6459627329192547,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_5": {
+            "with1": 0.048426666666666666,
+            "with2": 0.46091370558375633,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_6": {
+            "with1": 0.039893333333333336,
+            "with2": 0.40652173913043477,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_9": {
+            "with1": 0.004266666666666667,
+            "with2": 0.0425531914893617,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_1": {
+            "with1": 0.06485333333333333,
+            "with2": 0.4727838258164852,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_1": {
+            "with1": 0.05642666666666667,
+            "with2": 0.4262691377921031,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_4": {
+            "with1": 0.06336,
+            "with2": 0.6332622601279317,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_6": {
+            "with1": 0.021653333333333333,
+            "with2": 0.23687281213535588,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Inferior parietal": {
+        "7Networks_LH_Vis_17": {
+            "with1": 0.0009118367812161624,
+            "with2": 0.01703940362087327,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_23": {
+            "with1": 0.023308827719838148,
+            "with2": 0.43007360672975814,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_27": {
+            "with1": 0.012651735339374252,
+            "with2": 0.26025791324736225,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_28": {
+            "with1": 0.022396990938621988,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_4": {
+            "with1": 0.03692938963925457,
+            "with2": 0.7632508833922261,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_5": {
+            "with1": 0.008320510628597481,
+            "with2": 0.2718808193668529,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_7": {
+            "with1": 0.0007408673847381318,
+            "with2": 0.01756756756756757,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_9": {
+            "with1": 0.003590357326038639,
+            "with2": 0.08108108108108109,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_TempOcc_1": {
+            "with1": 0.005357041089644954,
+            "with2": 0.11449451887941535,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_Par_1": {
+            "with1": 0.022681939932752037,
+            "with2": 0.9875930521091811,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Cont_Par_3": {
+            "with1": 0.01128398016755001,
+            "with2": 0.2753824756606398,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_Par_4": {
+            "with1": 0.037727246822818715,
+            "with2": 0.7995169082125604,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Cont_Par_5": {
+            "with1": 0.018920613210235367,
+            "with2": 0.5949820788530465,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_Par_6": {
+            "with1": 0.0005129081894340913,
+            "with2": 0.01053864168618267,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Par_1": {
+            "with1": 0.0028494899413005073,
+            "with2": 0.07541478129713423,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Par_2": {
+            "with1": 0.04331224710776771,
+            "with2": 0.9844559585492227,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_Par_3": {
+            "with1": 0.049809084173932865,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_Par_4": {
+            "with1": 0.05180372713284322,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_Par_5": {
+            "with1": 0.017951786630193197,
+            "with2": 0.32710280373831774,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Par_6": {
+            "with1": 0.03578959366273437,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_Par_7": {
+            "with1": 0.041716532740639425,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Vis_16": {
+            "with1": 0.02028836838205961,
+            "with2": 0.33147113594040967,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_22": {
+            "with1": 0.02775403202826694,
+            "with2": 0.5825358851674641,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_26": {
+            "with1": 0.0020516327577363653,
+            "with2": 0.04225352112676056,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_27": {
+            "with1": 0.02724112383883285,
+            "with2": 0.757527733755943,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_3": {
+            "with1": 0.03105944036017553,
+            "with2": 0.6925031766200762,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_4": {
+            "with1": 0.03413688949678008,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_5": {
+            "with1": 0.010315153587507836,
+            "with2": 0.3321100917431193,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_8": {
+            "with1": 0.002735510343648487,
+            "with2": 0.096579476861167,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_10": {
+            "with1": 0.00034193879295606086,
+            "with2": 0.01488833746898263,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_11": {
+            "with1": 0.008206531030945461,
+            "with2": 0.2647058823529412,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_14": {
+            "with1": 0.0005129081894340913,
+            "with2": 0.010962241169305725,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_1": {
+            "with1": 0.011056020972245967,
+            "with2": 0.3094098883572568,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_2": {
+            "with1": 0.0039322961189946996,
+            "with2": 0.11876075731497418,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_3": {
+            "with1": 0.001937653160084345,
+            "with2": 0.062157221206581355,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_7": {
+            "with1": 0.0018806633612583347,
+            "with2": 0.04114713216957606,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_Par_1": {
+            "with1": 0.03966489998290306,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Cont_Par_2": {
+            "with1": 0.012651735339374252,
+            "with2": 0.444,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_Par_3": {
+            "with1": 0.03231321593434775,
+            "with2": 0.9775862068965517,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_Par_5": {
+            "with1": 0.02678520544822477,
+            "with2": 0.8768656716417911,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_Par_6": {
+            "with1": 0.0443950532854619,
+            "with2": 0.9873257287705957,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_Par_1": {
+            "with1": 0.033908930301476035,
+            "with2": 0.9916666666666667,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_Par_2": {
+            "with1": 0.03943694078759902,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_Par_3": {
+            "with1": 0.05630592124009802,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_Par_4": {
+            "with1": 0.034022909899128054,
+            "with2": 0.9227202472952086,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_Par_5": {
+            "with1": 0.04849831880093463,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        }
+    },
+    "Inferior temporal": {
+        "7Networks_LH_Vis_8": {
+            "with1": 0.014396841983048879,
+            "with2": 0.14536928487690504,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_17": {
+            "with1": 0.0004644142575177058,
+            "with2": 0.004259850905218318,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_1": {
+            "with1": 0.03796586555207245,
+            "with2": 0.5223642172523961,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_2": {
+            "with1": 0.07976314872866597,
+            "with2": 0.7163712200208551,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_3": {
+            "with1": 0.056310228724021825,
+            "with2": 0.5306345733041575,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_1": {
+            "with1": 0.06025774991292233,
+            "with2": 0.6041909196740396,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_2": {
+            "with1": 0.005456867525833043,
+            "with2": 0.06088082901554404,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_4": {
+            "with1": 0.10693138279345175,
+            "with2": 0.9989154013015185,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Limbic_TempPole_5": {
+            "with1": 0.029258098223615466,
+            "with2": 0.2916666666666667,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_6": {
+            "with1": 0.011029838616045513,
+            "with2": 0.09875259875259876,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_Temp_1": {
+            "with1": 0.027168234064785787,
+            "with2": 0.41563055062166965,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_1": {
+            "with1": 0.01044932079414838,
+            "with2": 0.14492753623188406,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_2": {
+            "with1": 0.011029838616045513,
+            "with2": 0.15806988352745424,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_3": {
+            "with1": 0.06211540694299315,
+            "with2": 0.7308743169398907,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Vis_9": {
+            "with1": 0.04075235109717868,
+            "with2": 0.37340425531914895,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_16": {
+            "with1": 0.0009288285150354116,
+            "with2": 0.0074487895716946,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_1": {
+            "with1": 0.07871821664925113,
+            "with2": 0.5272161741835147,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_2": {
+            "with1": 0.015906188319981425,
+            "with2": 0.22607260726072606,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_1": {
+            "with1": 0.01242308138859863,
+            "with2": 0.0862207896857373,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_2": {
+            "with1": 0.09276674793916173,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Limbic_TempPole_3": {
+            "with1": 0.023104609311505864,
+            "with2": 0.2974588938714499,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_4": {
+            "with1": 0.03401834436317195,
+            "with2": 0.31236673773987206,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_6": {
+            "with1": 0.0759317311041449,
+            "with2": 0.7631271878646441,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_Temp_1": {
+            "with1": 0.06838499941948217,
+            "with2": 0.5712900096993211,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_Temp_2": {
+            "with1": 0.026007198420991525,
+            "with2": 0.3154929577464789,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_1": {
+            "with1": 0.005456867525833043,
+            "with2": 0.05745721271393643,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_2": {
+            "with1": 0.013003599210495763,
+            "with2": 0.13238770685579196,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Isthmus cingulate": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.014840414718438708,
+            "with2": 0.0026143322708877988,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_13": {
+            "with1": 0.034153283187639764,
+            "with2": 0.38799076212471134,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_16": {
+            "with1": 0.005692213864606627,
+            "with2": 0.036410923276983094,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_20": {
+            "with1": 0.07582842041065257,
+            "with2": 0.7612244897959184,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Cont_Cing_2": {
+            "with1": 0.006098800569221387,
+            "with2": 0.04149377593360996,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_pCunPCC_1": {
+            "with1": 0.08924578166293962,
+            "with2": 0.7057877813504824,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_pCunPCC_3": {
+            "with1": 0.06830656637527953,
+            "with2": 0.5384615384615384,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_pCunPCC_4": {
+            "with1": 0.12583858507826795,
+            "with2": 0.9872408293460925,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_pCunPCC_6": {
+            "with1": 0.006911973978450905,
+            "with2": 0.04042806183115339,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_pCunPCC_7": {
+            "with1": 0.08761943484448058,
+            "with2": 0.6301169590643275,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_pCunPCC_8": {
+            "with1": 0.006911973978450905,
+            "with2": 0.05944055944055944,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_14": {
+            "with1": 0.047367351087619435,
+            "with2": 0.3119143239625167,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_17": {
+            "with1": 0.0825371010367961,
+            "with2": 0.9123595505617977,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_Cing_1": {
+            "with1": 0.05001016466761537,
+            "with2": 0.3,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_pCunPCC_1": {
+            "with1": 0.07298231347834926,
+            "with2": 0.2913961038961039,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_pCunPCC_2": {
+            "with1": 0.0725757267737345,
+            "with2": 0.9754098360655737,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_pCunPCC_4": {
+            "with1": 0.08578979467371417,
+            "with2": 0.46578366445916114,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_pCunPCC_6": {
+            "with1": 0.0664769262045131,
+            "with2": 0.3678290213723285,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_pCunPCC_8": {
+            "with1": 0.0008131734092295182,
+            "with2": 0.007476635514018692,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Lateral occipital": {
+        "7Networks_LH_Vis_5": {
+            "with1": 0.0015394587587100957,
+            "with2": 0.025333333333333333,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_6": {
+            "with1": 0.030627126883811376,
+            "with2": 0.6654929577464789,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_8": {
+            "with1": 0.038648517258142924,
+            "with2": 0.5592028135990621,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_9": {
+            "with1": 0.02738616107600065,
+            "with2": 0.6179159049360147,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_12": {
+            "with1": 0.07348889969210824,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Vis_14": {
+            "with1": 0.050478042456652085,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Vis_15": {
+            "with1": 0.040106951871657755,
+            "with2": 0.5580608793686584,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_17": {
+            "with1": 0.07097715119105494,
+            "with2": 0.9329073482428115,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Vis_19": {
+            "with1": 0.06093015718684168,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Vis_23": {
+            "with1": 0.04391508669583536,
+            "with2": 0.5699263932702419,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_24": {
+            "with1": 0.05031599416626155,
+            "with2": 0.7714285714285715,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Vis_27": {
+            "with1": 0.02025603629881705,
+            "with2": 0.29308323563892147,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_29": {
+            "with1": 0.00024307243558580456,
+            "with2": 0.0049261083743842365,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_3": {
+            "with1": 0.0008102414519526819,
+            "with2": 0.010940919037199124,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_4": {
+            "with1": 0.0071301247771836,
+            "with2": 0.10365135453474676,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_4": {
+            "with1": 0.018473505104521146,
+            "with2": 0.35403726708074534,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_6": {
+            "with1": 0.006968076486793064,
+            "with2": 0.09347826086956522,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_8": {
+            "with1": 0.03459730999837952,
+            "with2": 0.7763636363636364,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Vis_9": {
+            "with1": 0.04448225571220223,
+            "with2": 0.5840425531914893,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_10": {
+            "with1": 0.03637984119267542,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Vis_13": {
+            "with1": 0.07470426187003727,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Vis_15": {
+            "with1": 0.018959649975692758,
+            "with2": 0.16572237960339944,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_16": {
+            "with1": 0.0481283422459893,
+            "with2": 0.553072625698324,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_18": {
+            "with1": 0.061659374493599095,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Vis_21": {
+            "with1": 0.04197050721114892,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Vis_22": {
+            "with1": 0.028277426673148597,
+            "with2": 0.41746411483253587,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_23": {
+            "with1": 0.027548209366391185,
+            "with2": 0.48364153627311524,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_26": {
+            "with1": 0.040998217468805706,
+            "with2": 0.5938967136150235,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Lateral orbitofrontal": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.002809646452821353,
+            "with2": 0.0008595065000179064,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_3": {
+            "with1": 0.044720206040739875,
+            "with2": 0.526896551724138,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_5": {
+            "with1": 0.0005853430110044487,
+            "with2": 0.005050505050505051,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_OFC_1": {
+            "with1": 0.0739873565909623,
+            "with2": 0.6899563318777293,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_OFC_2": {
+            "with1": 0.11882463123390306,
+            "with2": 0.9584513692162417,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Limbic_OFC_3": {
+            "with1": 0.0739873565909623,
+            "with2": 0.572463768115942,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_OFC_5": {
+            "with1": 0.00035120580660266915,
+            "with2": 0.0036407766990291263,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_OFC_1": {
+            "with1": 0.035120580660266916,
+            "with2": 0.6864988558352403,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCv_1": {
+            "with1": 0.018848044954343245,
+            "with2": 0.33471933471933474,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_1": {
+            "with1": 0.09517677358932335,
+            "with2": 0.8220424671385238,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_2": {
+            "with1": 0.027159915710606414,
+            "with2": 0.5,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_5": {
+            "with1": 0.0125263404354952,
+            "with2": 0.07725631768953069,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_OFC_1": {
+            "with1": 0.08932334347927885,
+            "with2": 0.7906735751295336,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Limbic_OFC_2": {
+            "with1": 0.08944041208147975,
+            "with2": 0.9845360824742269,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Limbic_OFC_3": {
+            "with1": 0.05221259658159681,
+            "with2": 0.451417004048583,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_OFC_4": {
+            "with1": 0.05209552797939593,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Limbic_OFC_6": {
+            "with1": 0.007843596347459611,
+            "with2": 0.11433447098976109,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCv_1": {
+            "with1": 0.045305549051744325,
+            "with2": 0.5272479564032697,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_1": {
+            "with1": 0.026691641301802856,
+            "with2": 0.35569422776911075,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCv_1": {
+            "with1": 0.08405525638023882,
+            "with2": 0.8497041420118343,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_PFCv_2": {
+            "with1": 0.04799812690236479,
+            "with2": 0.7032590051457976,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_PFCv_3": {
+            "with1": 0.0009365488176071178,
+            "with2": 0.0087527352297593,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Lingual": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.0002469440671687863,
+            "with2": 7.162554166815886e-05,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_2": {
+            "with1": 0.004198049141869367,
+            "with2": 0.0297723292469352,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_4": {
+            "with1": 0.08038029386343994,
+            "with2": 0.6477611940298508,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_5": {
+            "with1": 0.04296826768736881,
+            "with2": 0.464,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_7": {
+            "with1": 0.003580688973947401,
+            "with2": 0.0518783542039356,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_9": {
+            "with1": 0.025805655019138164,
+            "with2": 0.3820840950639854,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_10": {
+            "with1": 0.08346709470304976,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Vis_11": {
+            "with1": 0.06865045067292258,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Vis_13": {
+            "with1": 0.023459686381034697,
+            "with2": 0.4387990762124711,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_15": {
+            "with1": 0.024570934683294233,
+            "with2": 0.22435174746335965,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_16": {
+            "with1": 0.09149277688603531,
+            "with2": 0.9635890767230169,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Vis_18": {
+            "with1": 0.021607605877268798,
+            "with2": 0.21237864077669902,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_20": {
+            "with1": 0.002716384738856649,
+            "with2": 0.044897959183673466,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_21": {
+            "with1": 0.025064822817631807,
+            "with2": 0.17159763313609466,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_22": {
+            "with1": 0.02123718977651562,
+            "with2": 0.19217877094972066,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_5": {
+            "with1": 0.0593900481540931,
+            "with2": 0.4883248730964467,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_6": {
+            "with1": 0.05679713544882084,
+            "with2": 0.5,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_7": {
+            "with1": 0.004815409309791332,
+            "with2": 0.09330143540669857,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_8": {
+            "with1": 0.015187060130880356,
+            "with2": 0.22363636363636363,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_11": {
+            "with1": 0.06531670576614397,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Vis_12": {
+            "with1": 0.08309667860229658,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Vis_14": {
+            "with1": 0.0521051981726139,
+            "with2": 0.5649263721552878,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_15": {
+            "with1": 0.05309297444128905,
+            "with2": 0.3045325779036827,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_17": {
+            "with1": 0.0007408322015063588,
+            "with2": 0.01348314606741573,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_19": {
+            "with1": 0.03457216940363008,
+            "with2": 0.2023121387283237,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_20": {
+            "with1": 0.05543894307939252,
+            "with2": 0.480728051391863,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Medial orbitofrontal": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.00825082508250825,
+            "with2": 0.0016115746875335745,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_OFC_1": {
+            "with1": 0.05133846718005134,
+            "with2": 0.3056768558951965,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_OFC_3": {
+            "with1": 0.08489182251558489,
+            "with2": 0.41938405797101447,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_OFC_4": {
+            "with1": 0.13384671800513384,
+            "with2": 0.9240506329113924,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_3": {
+            "with1": 0.0980931426475981,
+            "with2": 0.8872305140961857,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_4": {
+            "with1": 0.09974330766409974,
+            "with2": 0.49364791288566245,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_8": {
+            "with1": 0.0031169783645031168,
+            "with2": 0.030303030303030304,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_9": {
+            "with1": 0.011367803447011368,
+            "with2": 0.06813186813186813,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_OFC_1": {
+            "with1": 0.034653465346534656,
+            "with2": 0.19585492227979276,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_OFC_3": {
+            "with1": 0.09937660432709938,
+            "with2": 0.548582995951417,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_OFC_5": {
+            "with1": 0.11844517785111844,
+            "with2": 0.9556213017751479,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Limbic_OFC_6": {
+            "with1": 0.029152915291529153,
+            "with2": 0.2713310580204778,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_1": {
+            "with1": 0.19673634030069673,
+            "with2": 0.7508747375787264,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_PFCdPFCm_2": {
+            "with1": 0.011917858452511918,
+            "with2": 0.12572533849129594,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_3": {
+            "with1": 0.01906857352401907,
+            "with2": 0.10912906610703044,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Middle temporal": {
+        "7Networks_LH_Vis_17": {
+            "with1": 0.004522031759385845,
+            "with2": 0.04579339723109691,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_3": {
+            "with1": 0.04406351877168998,
+            "with2": 0.45842450765864334,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_4": {
+            "with1": 0.01188347880954885,
+            "with2": 0.1330977620730271,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_TempOcc_1": {
+            "with1": 0.0303922599642444,
+            "with2": 0.3520097442143727,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_4": {
+            "with1": 0.0001051635292880429,
+            "with2": 0.0010845986984815619,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_6": {
+            "with1": 0.03302134819644547,
+            "with2": 0.3264033264033264,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_Temp_1": {
+            "with1": 0.03459880113576612,
+            "with2": 0.5843694493783304,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_1": {
+            "with1": 0.05352823640761384,
+            "with2": 0.8196457326892109,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_Temp_2": {
+            "with1": 0.05321274581974971,
+            "with2": 0.8419301164725458,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_Temp_3": {
+            "with1": 0.020717215269744453,
+            "with2": 0.2691256830601093,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_4": {
+            "with1": 0.0747712693237985,
+            "with2": 0.649908592321755,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_6": {
+            "with1": 0.07866231990745609,
+            "with2": 0.6881324747010119,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_7": {
+            "with1": 0.028709643495635713,
+            "with2": 0.3883357041251778,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_16": {
+            "with1": 0.012198969397412978,
+            "with2": 0.10800744878957169,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_2": {
+            "with1": 0.049321695236092124,
+            "with2": 0.7739273927392739,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_3": {
+            "with1": 0.025449574087706383,
+            "with2": 0.30749682337992373,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_1": {
+            "with1": 0.02029656115259228,
+            "with2": 0.3078149920255183,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_3": {
+            "with1": 0.012198969397412978,
+            "with2": 0.17339312406576982,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_Temp_1": {
+            "with1": 0.04648227994531497,
+            "with2": 0.42870999030067897,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_Temp_2": {
+            "with1": 0.05110947523398885,
+            "with2": 0.6845070422535211,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_1": {
+            "with1": 0.07045956462298875,
+            "with2": 0.8190709046454768,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_Temp_2": {
+            "with1": 0.0771900304974235,
+            "with2": 0.8676122931442081,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_Temp_4": {
+            "with1": 0.040803449363760645,
+            "with2": 0.33827375762859635,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_5": {
+            "with1": 0.06783047639078768,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_Temp_6": {
+            "with1": 0.02776317173204333,
+            "with2": 0.4086687306501548,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_7": {
+            "with1": 0.021979177621200968,
+            "with2": 0.4815668202764977,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_8": {
+            "with1": 0.008728572930907562,
+            "with2": 0.08858057630736393,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Parahippocampal": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.011452513966480447,
+            "with2": 0.0014683236041972568,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_2": {
+            "with1": 0.17513966480446927,
+            "with2": 0.5490367775831874,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_4": {
+            "with1": 0.00027932960893854746,
+            "with2": 0.0009950248756218905,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_7": {
+            "with1": 0.1458100558659218,
+            "with2": 0.9338103756708408,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Vis_13": {
+            "with1": 0.020670391061452513,
+            "with2": 0.17090069284064666,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_3": {
+            "with1": 0.020391061452513966,
+            "with2": 0.0811111111111111,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_5": {
+            "with1": 0.004469273743016759,
+            "with2": 0.018518518518518517,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_8": {
+            "with1": 0.1393854748603352,
+            "with2": 0.7537764350453172,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Vis_2": {
+            "with1": 0.17625698324022346,
+            "with2": 0.6806903991370011,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_5": {
+            "with1": 0.013966480446927373,
+            "with2": 0.050761421319796954,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_7": {
+            "with1": 0.10223463687150838,
+            "with2": 0.8755980861244019,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Vis_14": {
+            "with1": 0.024860335195530728,
+            "with2": 0.11914323962516733,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_1": {
+            "with1": 0.0008379888268156424,
+            "with2": 0.0024174053182917004,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_4": {
+            "with1": 0.013407821229050279,
+            "with2": 0.0511727078891258,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_7": {
+            "with1": 0.15083798882681565,
+            "with2": 0.6887755102040817,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Paracentral": {
+        "7Networks_LH_SomMot_18": {
+            "with1": 0.05108771929824561,
+            "with2": 0.4188722669735328,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_23": {
+            "with1": 0.06329824561403509,
+            "with2": 0.9783080260303688,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_24": {
+            "with1": 0.07087719298245614,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_SomMot_25": {
+            "with1": 0.008280701754385965,
+            "with2": 0.11302681992337164,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_32": {
+            "with1": 0.07087719298245614,
+            "with2": 0.5567805953693495,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_33": {
+            "with1": 0.11831578947368421,
+            "with2": 0.7420774647887324,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_Med_3": {
+            "with1": 0.0527719298245614,
+            "with2": 0.3957894736842105,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_5": {
+            "with1": 0.0263859649122807,
+            "with2": 0.249667994687915,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_7": {
+            "with1": 0.0004210526315789474,
+            "with2": 0.0049261083743842365,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_20": {
+            "with1": 0.033403508771929824,
+            "with2": 0.3832528180354267,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_24": {
+            "with1": 0.05164912280701754,
+            "with2": 0.48104575163398694,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_30": {
+            "with1": 0.08673684210526315,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_32": {
+            "with1": 0.08266666666666667,
+            "with2": 0.5808678500986193,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_36": {
+            "with1": 0.00014035087719298245,
+            "with2": 0.002105263157894737,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_38": {
+            "with1": 0.10217543859649122,
+            "with2": 0.7287287287287287,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SalVentAttn_Med_3": {
+            "with1": 0.04898245614035088,
+            "with2": 0.3616580310880829,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_5": {
+            "with1": 0.01880701754385965,
+            "with2": 0.18846694796061886,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_6": {
+            "with1": 0.09473684210526316,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SalVentAttn_Med_7": {
+            "with1": 0.0183859649122807,
+            "with2": 0.17397078353253653,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Pars opercularis": {
+        "7Networks_LH_DorsAttn_PrCv_1": {
+            "with1": 0.03863351815417636,
+            "with2": 0.21492537313432836,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_5": {
+            "with1": 0.05866571275263817,
+            "with2": 0.33131313131313134,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_6": {
+            "with1": 0.03684492935074227,
+            "with2": 0.2934472934472934,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_7": {
+            "with1": 0.08907172241101771,
+            "with2": 0.9803149606299213,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_8": {
+            "with1": 0.005008048649615454,
+            "with2": 0.03867403314917127,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_9": {
+            "with1": 0.1028438561974602,
+            "with2": 0.6748826291079812,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_2": {
+            "with1": 0.017707029153997494,
+            "with2": 0.1752212389380531,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_6": {
+            "with1": 0.09837238418887498,
+            "with2": 0.36764705882352944,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_7": {
+            "with1": 0.0012520121624038634,
+            "with2": 0.011725293132328308,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_7": {
+            "with1": 0.005902343051332499,
+            "with2": 0.045205479452054796,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_10": {
+            "with1": 0.10355929171883384,
+            "with2": 0.910377358490566,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_PrCv_1": {
+            "with1": 0.04399928456447862,
+            "with2": 0.23814133591481124,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_5": {
+            "with1": 0.07351099982114112,
+            "with2": 0.2967509025270758,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_6": {
+            "with1": 0.029153997495975675,
+            "with2": 0.211139896373057,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_7": {
+            "with1": 0.03595063494902522,
+            "with2": 0.26517150395778366,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_8": {
+            "with1": 0.09873010194956179,
+            "with2": 0.7510204081632653,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_PFCl_6": {
+            "with1": 0.012698980504382043,
+            "with2": 0.12390924956369982,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_7": {
+            "with1": 0.09712037202647111,
+            "with2": 0.768033946251768,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_PFCl_10": {
+            "with1": 0.0023251654444643175,
+            "with2": 0.02276707530647986,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCv_4": {
+            "with1": 0.04864961545340726,
+            "with2": 0.3358024691358025,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Pars orbitalis": {
+        "7Networks_LH_Cont_OFC_1": {
+            "with1": 0.017875920084121977,
+            "with2": 0.07780320366132723,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_1": {
+            "with1": 0.17665615141955837,
+            "with2": 0.3421588594704684,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_1": {
+            "with1": 0.050473186119873815,
+            "with2": 0.09706774519716886,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_2": {
+            "with1": 0.12197686645636173,
+            "with2": 0.5,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_5": {
+            "with1": 0.13564668769716087,
+            "with2": 0.44559585492227977,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_1": {
+            "with1": 0.03943217665615142,
+            "with2": 0.11700468018720749,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_2": {
+            "with1": 0.16982124079915878,
+            "with2": 0.3929440389294404,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCv_1": {
+            "with1": 0.017350157728706624,
+            "with2": 0.03905325443786982,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCv_2": {
+            "with1": 0.09095688748685594,
+            "with2": 0.2967409948542024,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCv_3": {
+            "with1": 0.17981072555205047,
+            "with2": 0.3741794310722101,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Pars triangularis": {
+        "7Networks_LH_SalVentAttn_FrOperIns_3": {
+            "with1": 0.03953908721192951,
+            "with2": 0.2413793103448276,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_5": {
+            "with1": 0.0605512878445549,
+            "with2": 0.27070707070707073,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_1": {
+            "with1": 0.042476276547672845,
+            "with2": 0.19144602851323828,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_2": {
+            "with1": 0.0763669227293267,
+            "with2": 0.5982300884955752,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_1": {
+            "with1": 0.00045187528242205153,
+            "with2": 0.0020222446916076846,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_5": {
+            "with1": 0.07252598282873927,
+            "with2": 0.5544041450777202,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_7": {
+            "with1": 0.15747853592408495,
+            "with2": 0.9547945205479452,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_10": {
+            "with1": 0.012878445549028467,
+            "with2": 0.08962264150943396,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_5": {
+            "with1": 0.1174875734297334,
+            "with2": 0.37545126353790614,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCv_1": {
+            "with1": 0.0024853140533212833,
+            "with2": 0.014986376021798364,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_2": {
+            "with1": 0.017397198373248983,
+            "with2": 0.09367396593673966,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_4": {
+            "with1": 0.11093538183461364,
+            "with2": 0.8976234003656307,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_PFCl_5": {
+            "with1": 0.00045187528242205153,
+            "with2": 0.002205071664829107,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_6": {
+            "with1": 0.03999096249435156,
+            "with2": 0.3089005235602094,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCv_3": {
+            "with1": 0.12742882964301852,
+            "with2": 0.6170678336980306,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCv_4": {
+            "with1": 0.12155445097153186,
+            "with2": 0.6641975308641975,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Pericalcarine": {
+        "7Networks_LH_Vis_15": {
+            "with1": 0.0500669344042838,
+            "with2": 0.21082299887260428,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_18": {
+            "with1": 0.14216867469879518,
+            "with2": 0.6444174757281553,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_21": {
+            "with1": 0.22677376171352076,
+            "with2": 0.7159763313609467,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Vis_22": {
+            "with1": 0.092904953145917,
+            "with2": 0.3877094972067039,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_15": {
+            "with1": 0.16840696117804552,
+            "with2": 0.4454674220963173,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_19": {
+            "with1": 0.26961178045515394,
+            "with2": 0.7276011560693642,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Vis_20": {
+            "with1": 0.049531459170013385,
+            "with2": 0.1980728051391863,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_24": {
+            "with1": 0.000535475234270415,
+            "with2": 0.003076923076923077,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Postcentral": {
+        "7Networks_LH_SomMot_4": {
+            "with1": 0.0030015543763734793,
+            "with2": 0.051188299817184646,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_5": {
+            "with1": 0.002626360079326794,
+            "with2": 0.054626532887402456,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_8": {
+            "with1": 0.03607225170177413,
+            "with2": 0.9600570613409415,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_9": {
+            "with1": 0.015597362920083615,
+            "with2": 0.4098591549295775,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_10": {
+            "with1": 0.005467116899823122,
+            "with2": 0.15987460815047022,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_11": {
+            "with1": 0.020421289596398134,
+            "with2": 0.7042513863216266,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_12": {
+            "with1": 0.018009326258240876,
+            "with2": 0.38979118329466356,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_13": {
+            "with1": 0.03328509406657019,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_SomMot_14": {
+            "with1": 0.022833252934555393,
+            "with2": 0.6594427244582043,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_15": {
+            "with1": 0.031569920137213915,
+            "with2": 0.8046448087431693,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_17": {
+            "with1": 0.02594200568151364,
+            "with2": 0.8461538461538461,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_19": {
+            "with1": 0.002090368226402959,
+            "with2": 0.05500705218617771,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_20": {
+            "with1": 0.042021761269228707,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_SomMot_21": {
+            "with1": 0.05601114863054082,
+            "with2": 0.9980897803247374,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_22": {
+            "with1": 0.01522216862303693,
+            "with2": 0.5691382765531062,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_28": {
+            "with1": 0.03467867288417216,
+            "with2": 0.8626666666666667,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_29": {
+            "with1": 0.03344589162244734,
+            "with2": 0.8375838926174497,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_32": {
+            "with1": 0.01130942809669293,
+            "with2": 0.2326350606394708,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_33": {
+            "with1": 0.0006967894088009862,
+            "with2": 0.011443661971830986,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_35": {
+            "with1": 0.03800182237229994,
+            "with2": 0.851140456182473,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_36": {
+            "with1": 0.028997159243179502,
+            "with2": 0.7340569877883311,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_8": {
+            "with1": 0.01672294581122367,
+            "with2": 0.5226130653266332,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_11": {
+            "with1": 0.010880634614353861,
+            "with2": 0.19980314960629922,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_17": {
+            "with1": 0.00032159511175430133,
+            "with2": 0.015037593984962405,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_ParOper_3": {
+            "with1": 0.004609529935144986,
+            "with2": 0.10723192019950124,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_8": {
+            "with1": 0.0003751942970466849,
+            "with2": 0.009668508287292817,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_5": {
+            "with1": 0.005949509567454575,
+            "with2": 0.20708955223880596,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_9": {
+            "with1": 0.01463257758482071,
+            "with2": 0.525,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_11": {
+            "with1": 0.022511657822801092,
+            "with2": 0.7865168539325843,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_12": {
+            "with1": 0.015275767808329314,
+            "with2": 0.35714285714285715,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_14": {
+            "with1": 0.023744439084525917,
+            "with2": 0.7910714285714285,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_16": {
+            "with1": 0.07273409444176449,
+            "with2": 0.7287862513426423,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_17": {
+            "with1": 0.02294045130514016,
+            "with2": 0.5257985257985258,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_18": {
+            "with1": 0.002197566596987726,
+            "with2": 0.04927884615384615,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_19": {
+            "with1": 0.027817977166747065,
+            "with2": 0.8317307692307693,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_21": {
+            "with1": 0.035482660663557916,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_22": {
+            "with1": 0.0011791820764324383,
+            "with2": 0.028795811518324606,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_23": {
+            "with1": 0.04593450179557271,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_25": {
+            "with1": 0.0237980382698183,
+            "with2": 0.6324786324786325,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_27": {
+            "with1": 0.03757302888996087,
+            "with2": 0.9887165021156559,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_28": {
+            "with1": 0.0003751942970466849,
+            "with2": 0.01002865329512894,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_29": {
+            "with1": 0.025352414643297422,
+            "with2": 0.7437106918238994,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_32": {
+            "with1": 0.004877525861606904,
+            "with2": 0.08974358974358974,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_34": {
+            "with1": 0.02760358042557753,
+            "with2": 0.8306451612903226,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_35": {
+            "with1": 0.023583641528648766,
+            "with2": 0.6951026856240127,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_37": {
+            "with1": 0.000482392667631452,
+            "with2": 0.0141287284144427,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_38": {
+            "with1": 0.0012327812617248218,
+            "with2": 0.023023023023023025,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_40": {
+            "with1": 0.029854746207857642,
+            "with2": 0.911620294599018,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_9": {
+            "with1": 0.008307873720319452,
+            "with2": 0.1979565772669221,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_13": {
+            "with1": 0.01264940772900252,
+            "with2": 0.2518676627534685,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_5": {
+            "with1": 0.00016079755587715066,
+            "with2": 0.00430416068866571,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_6": {
+            "with1": 0.0006431902235086027,
+            "with2": 0.015544041450777202,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_7": {
+            "with1": 0.002894356005788712,
+            "with2": 0.0712401055408971,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Posterior cingulate": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.003514376996805112,
+            "with2": 0.0007878809583497476,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_18": {
+            "with1": 0.019968051118210862,
+            "with2": 0.14384349827387802,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_2": {
+            "with1": 0.06773162939297124,
+            "with2": 0.41732283464566927,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_3": {
+            "with1": 0.09169329073482428,
+            "with2": 0.6042105263157894,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_5": {
+            "with1": 0.01853035143769968,
+            "with2": 0.15405046480743692,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_Cing_1": {
+            "with1": 0.06022364217252396,
+            "with2": 0.5686274509803921,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_Cing_2": {
+            "with1": 0.11006389776357828,
+            "with2": 0.9529737206085753,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_pCunPCC_4": {
+            "with1": 0.0004792332268370607,
+            "with2": 0.004784688995215311,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_pCunPCC_7": {
+            "with1": 0.0011182108626198084,
+            "with2": 0.01023391812865497,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_pCunPCC_8": {
+            "with1": 0.08051118210862619,
+            "with2": 0.8811188811188811,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_pCunPCC_9": {
+            "with1": 0.06980830670926517,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_20": {
+            "with1": 0.059584664536741216,
+            "with2": 0.6006441223832528,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_1": {
+            "with1": 0.002875399361022364,
+            "with2": 0.013313609467455622,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_2": {
+            "with1": 0.07172523961661342,
+            "with2": 0.5096481271282634,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_3": {
+            "with1": 0.07396166134185303,
+            "with2": 0.47979274611398964,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_Cing_1": {
+            "with1": 0.08961661341853035,
+            "with2": 0.6841463414634147,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_Cing_2": {
+            "with1": 0.06230031948881789,
+            "with2": 0.6890459363957597,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_pCunPCC_6": {
+            "with1": 0.03929712460063898,
+            "with2": 0.27671541057367827,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_pCunPCC_7": {
+            "with1": 0.07699680511182108,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        }
+    },
+    "Precentral": {
+        "7Networks_LH_SomMot_4": {
+            "with1": 0.009839123338773606,
+            "with2": 0.19287020109689215,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_8": {
+            "with1": 0.00023315458148752622,
+            "with2": 0.007132667617689016,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_9": {
+            "with1": 0.0195383539286547,
+            "with2": 0.5901408450704225,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_12": {
+            "with1": 0.02452786197248776,
+            "with2": 0.6102088167053364,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_14": {
+            "with1": 0.010258801585451154,
+            "with2": 0.34055727554179566,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_16": {
+            "with1": 0.03548612730240149,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_SomMot_17": {
+            "with1": 0.004103520634180462,
+            "with2": 0.15384615384615385,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_19": {
+            "with1": 0.031242713919328514,
+            "with2": 0.9449929478138223,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_22": {
+            "with1": 0.010025647003963628,
+            "with2": 0.4308617234468938,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_26": {
+            "with1": 0.057729074376311494,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_SomMot_28": {
+            "with1": 0.00480298437864304,
+            "with2": 0.13733333333333334,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_30": {
+            "with1": 0.03833061319654931,
+            "with2": 0.8625393494228751,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_31": {
+            "with1": 0.023781767311727674,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_SomMot_32": {
+            "with1": 0.00013989274889251573,
+            "with2": 0.0033076074972436605,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_33": {
+            "with1": 0.01217066915364887,
+            "with2": 0.22975352112676056,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_34": {
+            "with1": 0.023128934483562603,
+            "with2": 0.6146220570012392,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_35": {
+            "with1": 0.005782233620890651,
+            "with2": 0.148859543817527,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_37": {
+            "with1": 0.021963161576124973,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_DorsAttn_FEF_1": {
+            "with1": 0.02462112380508277,
+            "with2": 0.8211508553654744,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_DorsAttn_FEF_2": {
+            "with1": 0.0018652366519002097,
+            "with2": 0.055401662049861494,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_FEF_3": {
+            "with1": 0.017906271858242014,
+            "with2": 0.7710843373493976,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_DorsAttn_PrCv_1": {
+            "with1": 0.035765912800186525,
+            "with2": 0.7631840796019901,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_DorsAttn_PrCv_2": {
+            "with1": 0.027698764280718116,
+            "with2": 0.9580645161290322,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_6": {
+            "with1": 0.003777104220097925,
+            "with2": 0.11538461538461539,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_7": {
+            "with1": 0.00046630916297505244,
+            "with2": 0.01968503937007874,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_8": {
+            "with1": 0.032128701328981116,
+            "with2": 0.9516574585635359,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_9": {
+            "with1": 0.012916763814408953,
+            "with2": 0.32511737089201875,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_7": {
+            "with1": 0.002098391233387736,
+            "with2": 0.07537688442211055,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_20": {
+            "with1": 0.008486826766145955,
+            "with2": 0.30033003300330036,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_5": {
+            "with1": 9.326183259501049e-05,
+            "with2": 0.0037313432835820895,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_12": {
+            "with1": 0.02392166006062019,
+            "with2": 0.6428571428571429,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_15": {
+            "with1": 0.015388202378176731,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_16": {
+            "with1": 0.02354861273024015,
+            "with2": 0.2712137486573577,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_18": {
+            "with1": 0.03688505479132665,
+            "with2": 0.9507211538461539,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_22": {
+            "with1": 0.03460013989274889,
+            "with2": 0.9712041884816754,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_25": {
+            "with1": 0.012030776404756353,
+            "with2": 0.36752136752136755,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_26": {
+            "with1": 0.054884588482163675,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_29": {
+            "with1": 0.0076008393564933555,
+            "with2": 0.2562893081761006,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_31": {
+            "with1": 0.0373047330380042,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_33": {
+            "with1": 0.02508743296805782,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_34": {
+            "with1": 0.00489624621123805,
+            "with2": 0.1693548387096774,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_36": {
+            "with1": 0.01137794357659128,
+            "with2": 0.5136842105263157,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_38": {
+            "with1": 0.011564467241781302,
+            "with2": 0.24824824824824826,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_39": {
+            "with1": 0.03889018419211938,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_40": {
+            "with1": 0.002471438563767778,
+            "with2": 0.0867430441898527,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_FEF_1": {
+            "with1": 0.03520634180461646,
+            "with2": 0.8135775862068966,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_FEF_2": {
+            "with1": 0.014269060387036606,
+            "with2": 0.4480234260614934,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_FEF_3": {
+            "with1": 0.005782233620890651,
+            "with2": 0.2546201232032854,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_PrCv_1": {
+            "with1": 0.03460013989274889,
+            "with2": 0.718296224588577,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SalVentAttn_PrC_1": {
+            "with1": 0.02508743296805782,
+            "with2": 0.7819767441860465,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_6": {
+            "with1": 0.011564467241781302,
+            "with2": 0.32124352331606215,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_7": {
+            "with1": 0.02345535089764514,
+            "with2": 0.6635883905013192,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_8": {
+            "with1": 0.00853345768244346,
+            "with2": 0.24897959183673468,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_13": {
+            "with1": 0.00013989274889251573,
+            "with2": 0.006726457399103139,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Precuneus": {
+        "7Networks_LH_Vis_20": {
+            "with1": 0.0056925996204933585,
+            "with2": 0.17755102040816326,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_22": {
+            "with1": 0.0196296538637702,
+            "with2": 0.33519553072625696,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_26": {
+            "with1": 0.013348164627363738,
+            "with2": 0.28372739916550765,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_30": {
+            "with1": 0.00673951449322777,
+            "with2": 0.19884169884169883,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_23": {
+            "with1": 0.0006543217954590067,
+            "with2": 0.021691973969631236,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_32": {
+            "with1": 0.010992606163711314,
+            "with2": 0.185226019845645,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_13": {
+            "with1": 0.00013086435909180134,
+            "with2": 0.002053388090349076,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_15": {
+            "with1": 0.020807433095596413,
+            "with2": 0.43621399176954734,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_17": {
+            "with1": 0.0018321010272852188,
+            "with2": 0.07017543859649122,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_5": {
+            "with1": 0.0293790486161094,
+            "with2": 0.5962815405046481,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_6": {
+            "with1": 0.045213636066217366,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Cont_pCun_1": {
+            "with1": 0.01838644245239809,
+            "with2": 0.49822695035460995,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_pCun_2": {
+            "with1": 0.03677288490479618,
+            "with2": 0.9335548172757475,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_pCunPCC_1": {
+            "with1": 0.01158149577962442,
+            "with2": 0.2845659163987138,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_pCunPCC_2": {
+            "with1": 0.046914872734410785,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_pCunPCC_3": {
+            "with1": 0.018844467709219395,
+            "with2": 0.46153846153846156,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_pCunPCC_5": {
+            "with1": 0.04096054439573382,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_pCunPCC_6": {
+            "with1": 0.052803768893541846,
+            "with2": 0.9595719381688466,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_pCunPCC_7": {
+            "with1": 0.016096316168291564,
+            "with2": 0.35964912280701755,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_pCunPCC_8": {
+            "with1": 0.002224694104560623,
+            "with2": 0.05944055944055944,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_pCunPCC_10": {
+            "with1": 0.030033370411568408,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_pCunPCC_11": {
+            "with1": 0.04913956683897141,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Vis_17": {
+            "with1": 0.0020938297454688214,
+            "with2": 0.07191011235955057,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_20": {
+            "with1": 0.0193679251455866,
+            "with2": 0.3169164882226981,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_24": {
+            "with1": 0.018190145913760388,
+            "with2": 0.4276923076923077,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_28": {
+            "with1": 0.01171236013871622,
+            "with2": 0.30338983050847457,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_32": {
+            "with1": 0.020807433095596413,
+            "with2": 0.3136094674556213,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_37": {
+            "with1": 0.0014395079500098148,
+            "with2": 0.03453689167974882,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_15": {
+            "with1": 0.0196950860433161,
+            "with2": 0.5289982425307557,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_17": {
+            "with1": 0.058561800693581106,
+            "with2": 0.8597502401536984,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_18": {
+            "with1": 0.0005888896159131061,
+            "with2": 0.01761252446183953,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_3": {
+            "with1": 0.010011123470522803,
+            "with2": 0.15854922279792746,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_5": {
+            "with1": 0.03775436759798469,
+            "with2": 0.8115330520393812,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_pCun_1": {
+            "with1": 0.039128443368448604,
+            "with2": 0.8641618497109826,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_pCun_2": {
+            "with1": 0.04272721324347314,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_pCunPCC_1": {
+            "with1": 0.05640253876856638,
+            "with2": 0.6996753246753247,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_pCunPCC_3": {
+            "with1": 0.019956814761499707,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_pCunPCC_4": {
+            "with1": 0.031669174900215924,
+            "with2": 0.5342163355408388,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_pCunPCC_5": {
+            "with1": 0.037165477982071586,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_pCunPCC_6": {
+            "with1": 0.020676568736504614,
+            "with2": 0.35545556805399325,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_pCunPCC_8": {
+            "with1": 0.03474448733887326,
+            "with2": 0.9925233644859813,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_pCunPCC_9": {
+            "with1": 0.039128443368448604,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        }
+    },
+    "Rostral anterior cingulate": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.02040816326530612,
+            "with2": 0.0017548257708698922,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_OFC_4": {
+            "with1": 0.0212411495210329,
+            "with2": 0.06455696202531645,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_4": {
+            "with1": 0.2307371928363182,
+            "with2": 0.5027223230490018,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_9": {
+            "with1": 0.2532278217409413,
+            "with2": 0.6681318681318681,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_12": {
+            "with1": 0.04623073719283632,
+            "with2": 0.1178343949044586,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_OFC_5": {
+            "with1": 0.0058309037900874635,
+            "with2": 0.020710059171597635,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCmp_1": {
+            "with1": 0.012911286963765098,
+            "with2": 0.034103410341034104,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_1": {
+            "with1": 0.14327363598500625,
+            "with2": 0.24072778166550035,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_3": {
+            "with1": 0.2540608079966681,
+            "with2": 0.640083945435467,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_6": {
+            "with1": 0.012078300708038317,
+            "with2": 0.047540983606557376,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Rostral middle frontal": {
+        "7Networks_LH_SalVentAttn_PFCl_1": {
+            "with1": 0.05983980935989938,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Limbic_OFC_3": {
+            "with1": 0.000397166876282518,
+            "with2": 0.005434782608695652,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_OFC_5": {
+            "with1": 0.03382537896339445,
+            "with2": 0.6201456310679612,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_OFC_1": {
+            "with1": 0.0068180313761832265,
+            "with2": 0.23569794050343248,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_1": {
+            "with1": 0.03031707155623221,
+            "with2": 0.4663951120162933,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_2": {
+            "with1": 0.008472893360693718,
+            "with2": 0.22654867256637168,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_3": {
+            "with1": 0.03806182564374131,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Cont_PFCl_4": {
+            "with1": 0.037002713973654594,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Cont_PFCl_5": {
+            "with1": 0.0484543589064672,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Cont_PFCl_6": {
+            "with1": 0.04653471900443503,
+            "with2": 0.4699197860962567,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCl_8": {
+            "with1": 0.037333686370556694,
+            "with2": 0.9337748344370861,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_6": {
+            "with1": 0.03885615939630635,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_PFC_11": {
+            "with1": 0.015357119216257363,
+            "with2": 0.3642072213500785,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_14": {
+            "with1": 0.013040312437942675,
+            "with2": 0.2269585253456221,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_15": {
+            "with1": 0.039849076587012644,
+            "with2": 0.9885057471264368,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_16": {
+            "with1": 0.02402859601509234,
+            "with2": 0.5369822485207101,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_17": {
+            "with1": 0.0009267227113258754,
+            "with2": 0.017135862913096694,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_19": {
+            "with1": 0.0003309723969020984,
+            "with2": 0.007518796992481203,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_PFCl_1": {
+            "with1": 0.07347587211226583,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Limbic_OFC_6": {
+            "with1": 0.006354670020520288,
+            "with2": 0.16382252559726962,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_1": {
+            "with1": 0.02237373403058185,
+            "with2": 0.5273010920436817,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_2": {
+            "with1": 0.027934070298537103,
+            "with2": 0.51338199513382,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_3": {
+            "with1": 0.09134838154497915,
+            "with2": 0.9956709956709957,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_PFCl_4": {
+            "with1": 0.0037068908453035017,
+            "with2": 0.10237659963436929,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_5": {
+            "with1": 0.059906003839279805,
+            "with2": 0.9977949283351709,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_PFCl_6": {
+            "with1": 0.021513205798636394,
+            "with2": 0.5671902268760908,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_7": {
+            "with1": 0.01012775534520421,
+            "with2": 0.2164073550212164,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_8": {
+            "with1": 0.04057721586019726,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Cont_PFCl_9": {
+            "with1": 0.04130535513338188,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Cont_PFCl_10": {
+            "with1": 0.003243529489640564,
+            "with2": 0.08581436077057793,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_11": {
+            "with1": 0.04838816442708678,
+            "with2": 0.9605781865965834,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_PFCl_12": {
+            "with1": 0.005891308664857351,
+            "with2": 0.11710526315789474,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_2": {
+            "with1": 0.0025815846958363673,
+            "with2": 0.07543520309477757,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_5": {
+            "with1": 0.01800489839147415,
+            "with2": 0.46337308347529815,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_8": {
+            "with1": 0.009134838154497915,
+            "with2": 0.2222222222222222,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_10": {
+            "with1": 0.034685907195339906,
+            "with2": 0.46785714285714286,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Superior frontal": {
+        "7Networks_LH_SomMot_18": {
+            "with1": 0.01579581826495407,
+            "with2": 0.4372842347525892,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_25": {
+            "with1": 0.019245957517562456,
+            "with2": 0.8869731800766284,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_30": {
+            "with1": 0.005445400507128902,
+            "with2": 0.13746065057712487,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_33": {
+            "with1": 0.0007897909132477033,
+            "with2": 0.016725352112676055,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_34": {
+            "with1": 0.012927630211580828,
+            "with2": 0.3853779429987608,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_FEF_2": {
+            "with1": 0.007773205304069501,
+            "with2": 0.2590027700831025,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_FEF_4": {
+            "with1": 0.03657978966620942,
+            "with2": 0.9565217391304348,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_Med_1": {
+            "with1": 0.017915783347882113,
+            "with2": 0.45464135021097046,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_2": {
+            "with1": 0.01887184603233986,
+            "with2": 0.4468503937007874,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_Med_4": {
+            "with1": 0.03233985950035333,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_SalVentAttn_Med_7": {
+            "with1": 0.025190173338321485,
+            "with2": 0.9950738916256158,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Limbic_OFC_5": {
+            "with1": 0.0034085713098058776,
+            "with2": 0.09951456310679611,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCmp_1": {
+            "with1": 0.03200731595793324,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_PFC_3": {
+            "with1": 0.001122334455667789,
+            "with2": 0.04477611940298507,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_8": {
+            "with1": 0.02261296088456582,
+            "with2": 0.9696969696969697,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_9": {
+            "with1": 0.009810034501392527,
+            "with2": 0.25934065934065936,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_11": {
+            "with1": 0.016835016835016835,
+            "with2": 0.6357927786499215,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_12": {
+            "with1": 0.013426445525210957,
+            "with2": 0.34288747346072185,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_13": {
+            "with1": 0.04896703662135761,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_PFC_14": {
+            "with1": 0.027892089620484683,
+            "with2": 0.7730414746543779,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_15": {
+            "with1": 0.00029097559961757495,
+            "with2": 0.011494252873563218,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_16": {
+            "with1": 0.005279128735918859,
+            "with2": 0.1878698224852071,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_18": {
+            "with1": 0.020825539344057863,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_PFC_19": {
+            "with1": 0.027434842249657063,
+            "with2": 0.9924812030075187,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_22": {
+            "with1": 0.02003574843081016,
+            "with2": 0.7578616352201258,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_PFC_23": {
+            "with1": 0.031009685330672984,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_PFC_24": {
+            "with1": 0.03242299538595835,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_20": {
+            "with1": 0.000415679428025107,
+            "with2": 0.01610305958132045,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_24": {
+            "with1": 0.01650247329259675,
+            "with2": 0.5189542483660131,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_36": {
+            "with1": 0.009560626844577463,
+            "with2": 0.4842105263157895,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_FEF_2": {
+            "with1": 0.005154424907511327,
+            "with2": 0.1815519765739385,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_FEF_3": {
+            "with1": 0.015089163237311385,
+            "with2": 0.7453798767967146,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SalVentAttn_Med_1": {
+            "with1": 0.030801845616660432,
+            "with2": 0.5480769230769231,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_2": {
+            "with1": 0.017458535977054497,
+            "with2": 0.4767309875141884,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_Med_4": {
+            "with1": 0.022945504426985907,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SalVentAttn_Med_7": {
+            "with1": 0.025855260423161656,
+            "with2": 0.8260292164674635,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SalVentAttn_Med_8": {
+            "with1": 0.019620069002785054,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Cont_PFCl_15": {
+            "with1": 0.026936026936026935,
+            "with2": 0.781664656212304,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_PFCmp_1": {
+            "with1": 0.025772124537556635,
+            "with2": 0.682068206820682,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCmp_2": {
+            "with1": 0.026229371908384255,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_PFCdPFCm_1": {
+            "with1": 8.31358856050214e-05,
+            "with2": 0.0013995801259622112,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_2": {
+            "with1": 0.01305233403998836,
+            "with2": 0.6073500967117988,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_3": {
+            "with1": 0.009726898615787506,
+            "with2": 0.24554039874081846,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_4": {
+            "with1": 0.03899073034875504,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_PFCdPFCm_5": {
+            "with1": 0.013093901982790871,
+            "with2": 0.5366269165247018,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_7": {
+            "with1": 0.02307020825539344,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_PFCdPFCm_8": {
+            "with1": 0.02007731637361267,
+            "with2": 0.7777777777777778,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_PFCdPFCm_9": {
+            "with1": 0.02194787379972565,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_PFCdPFCm_10": {
+            "with1": 0.01841459866151224,
+            "with2": 0.39553571428571427,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_11": {
+            "with1": 0.03462609635449142,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_PFCdPFCm_12": {
+            "with1": 0.026437211622396806,
+            "with2": 0.8446215139442231,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Default_PFCdPFCm_13": {
+            "with1": 0.03188261212952571,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        }
+    },
+    "Superior parietal": {
+        "7Networks_LH_Vis_24": {
+            "with1": 0.0026114711287358546,
+            "with2": 0.0670807453416149,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_25": {
+            "with1": 0.008559822033078633,
+            "with2": 0.2532188841201717,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_27": {
+            "with1": 0.018425379630525197,
+            "with2": 0.4466588511137163,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_29": {
+            "with1": 0.029306509333591257,
+            "with2": 0.9950738916256158,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Vis_30": {
+            "with1": 0.013782764290550344,
+            "with2": 0.5501930501930502,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Vis_31": {
+            "with1": 0.0307573266273334,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_SomMot_21": {
+            "with1": 9.672115291614276e-05,
+            "with2": 0.0019102196752626551,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_27": {
+            "with1": 0.03854337943708289,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_SomMot_29": {
+            "with1": 0.005851629751426637,
+            "with2": 0.16241610738255033,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_32": {
+            "with1": 0.0009672115291614276,
+            "with2": 0.022050716648291068,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_36": {
+            "with1": 0.009478672985781991,
+            "with2": 0.26594301221166894,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_5": {
+            "with1": 0.01890898539510591,
+            "with2": 0.7281191806331471,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_7": {
+            "with1": 0.035158139085017893,
+            "with2": 0.9824324324324324,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_9": {
+            "with1": 0.02945159106296547,
+            "with2": 0.7837837837837838,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_10": {
+            "with1": 0.0253409420640294,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_11": {
+            "with1": 0.027952413192765257,
+            "with2": 0.5688976377952756,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_12": {
+            "with1": 0.029596672792339684,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_13": {
+            "with1": 0.04700648031724538,
+            "with2": 0.997946611909651,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_14": {
+            "with1": 0.036899119837508466,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_15": {
+            "with1": 0.01987619692426734,
+            "with2": 0.5637860082304527,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_16": {
+            "with1": 0.035545023696682464,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_17": {
+            "with1": 0.017651610407196053,
+            "with2": 0.9147869674185464,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Cont_Par_1": {
+            "with1": 0.0002418028822903569,
+            "with2": 0.01240694789081886,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_Par_4": {
+            "with1": 0.00802785569203985,
+            "with2": 0.20048309178743962,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_pCun_1": {
+            "with1": 0.013686043137634201,
+            "with2": 0.50177304964539,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_pCun_2": {
+            "with1": 0.0019344230583228552,
+            "with2": 0.0664451827242525,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_23": {
+            "with1": 0.005174581681013638,
+            "with2": 0.15220483641536273,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_25": {
+            "with1": 0.00038688461166457103,
+            "with2": 0.013468013468013467,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_26": {
+            "with1": 0.014991778702002127,
+            "with2": 0.36384976525821594,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_27": {
+            "with1": 0.007399168198084921,
+            "with2": 0.24247226624405704,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_28": {
+            "with1": 0.011364735467646775,
+            "with2": 0.3983050847457627,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Vis_29": {
+            "with1": 0.035448302543766325,
+            "with2": 0.9606815203145478,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Vis_30": {
+            "with1": 0.020891769029886837,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_27": {
+            "with1": 0.00038688461166457103,
+            "with2": 0.011283497884344146,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_28": {
+            "with1": 0.03341715833252732,
+            "with2": 0.9899713467048711,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_32": {
+            "with1": 0.0007737692233291421,
+            "with2": 0.015779092702169626,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_35": {
+            "with1": 0.009333591256407776,
+            "with2": 0.3048973143759874,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_37": {
+            "with1": 0.029306509333591257,
+            "with2": 0.9513343799058085,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_40": {
+            "with1": 4.836057645807138e-05,
+            "with2": 0.0016366612111292963,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_5": {
+            "with1": 0.017603249830737983,
+            "with2": 0.6678899082568808,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_7": {
+            "with1": 0.019731115194893123,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_8": {
+            "with1": 0.007979495115581778,
+            "with2": 0.3319919517102616,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_10": {
+            "with1": 0.019199148853854337,
+            "with2": 0.9851116625310173,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_11": {
+            "with1": 0.019344230583228553,
+            "with2": 0.7352941176470589,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_12": {
+            "with1": 0.0383499371312506,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_13": {
+            "with1": 0.02945159106296547,
+            "with2": 0.6499466382070438,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_14": {
+            "with1": 0.03926878808395396,
+            "with2": 0.9890377588306942,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_15": {
+            "with1": 0.01296063449076313,
+            "with2": 0.4710017574692443,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_16": {
+            "with1": 0.04149337460102524,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_17": {
+            "with1": 0.007060644162878421,
+            "with2": 0.14024975984630164,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_18": {
+            "with1": 0.024277009381951833,
+            "with2": 0.9823874755381604,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_19": {
+            "with1": 0.04304091304768353,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Cont_Par_3": {
+            "with1": 0.0006286874939549279,
+            "with2": 0.022413793103448276,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_Par_6": {
+            "with1": 0.0004836057645807138,
+            "with2": 0.012674271229404309,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_pCun_1": {
+            "with1": 0.00454589418705871,
+            "with2": 0.13583815028901733,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Superior temporal": {
+        "7Networks_LH_SomMot_1": {
+            "with1": 0.04066765683570266,
+            "with2": 0.6431767337807607,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_2": {
+            "with1": 0.07199943418912229,
+            "with2": 0.7474302496328928,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_5": {
+            "with1": 0.0004950845179998585,
+            "with2": 0.007803790412486065,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_6": {
+            "with1": 0.04964990451941439,
+            "with2": 0.9722991689750693,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_7": {
+            "with1": 0.03713133884998939,
+            "with2": 0.6264916467780429,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_ParOper_1": {
+            "with1": 0.000424358158285593,
+            "with2": 0.006607929515418502,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_ParOper_2": {
+            "with1": 0.002192517151142231,
+            "with2": 0.043785310734463276,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_1": {
+            "with1": 0.04865973548341467,
+            "with2": 0.9786628733997155,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_2": {
+            "with1": 0.002404696230285027,
+            "with2": 0.02535421327367636,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_4": {
+            "with1": 0.015771978216281207,
+            "with2": 0.2907431551499348,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_6": {
+            "with1": 0.031048871914562556,
+            "with2": 0.45634095634095634,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_7": {
+            "with1": 0.020581370676851264,
+            "with2": 0.31630434782608696,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_1": {
+            "with1": 0.0015559799137138412,
+            "with2": 0.03542673107890499,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_4": {
+            "with1": 0.027088195770563688,
+            "with2": 0.350091407678245,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_5": {
+            "with1": 0.05877360492255464,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_Temp_7": {
+            "with1": 0.029492892000848717,
+            "with2": 0.5931721194879089,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Temp_8": {
+            "with1": 0.03684843341113233,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Default_Temp_9": {
+            "with1": 0.026946743051135157,
+            "with2": 0.48166877370417194,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Par_1": {
+            "with1": 0.012518565669424995,
+            "with2": 0.2669683257918552,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_1": {
+            "with1": 0.06789730532569489,
+            "with2": 0.9876543209876543,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_2": {
+            "with1": 0.06513897729683853,
+            "with2": 0.9623824451410659,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_3": {
+            "with1": 0.04172855223141665,
+            "with2": 0.5629770992366412,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_4": {
+            "with1": 0.0077798995685692054,
+            "with2": 0.1687116564417178,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_7": {
+            "with1": 0.05163024259141382,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_8": {
+            "with1": 0.015559799137138411,
+            "with2": 0.3618421052631579,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_10": {
+            "with1": 0.01195275479171087,
+            "with2": 0.1829004329004329,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_4": {
+            "with1": 0.006223919654855365,
+            "with2": 0.07963800904977375,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_1": {
+            "with1": 0.030624513756276964,
+            "with2": 0.4131679389312977,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_3": {
+            "with1": 0.018671758964566094,
+            "with2": 0.28540540540540543,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_3": {
+            "with1": 0.009972416719711436,
+            "with2": 0.21076233183856502,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_5": {
+            "with1": 0.007355541410283613,
+            "with2": 0.12293144208037825,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_1": {
+            "with1": 0.0071433623311408165,
+            "with2": 0.1234718826405868,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_3": {
+            "with1": 0.05254968526769927,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Default_Temp_4": {
+            "with1": 0.05368130702312752,
+            "with2": 0.6617262423714037,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_6": {
+            "with1": 0.027017469410849423,
+            "with2": 0.5913312693498453,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Temp_8": {
+            "with1": 0.010821133036282623,
+            "with2": 0.1632870864461046,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Supramarginal": {
+        "7Networks_LH_SomMot_5": {
+            "with1": 0.015044776119402985,
+            "with2": 0.2809364548494983,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_6": {
+            "with1": 0.0011940298507462687,
+            "with2": 0.027700831024930747,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_7": {
+            "with1": 0.014447761194029851,
+            "with2": 0.28878281622911695,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_10": {
+            "with1": 0.032,
+            "with2": 0.8401253918495298,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_11": {
+            "with1": 0.00955223880597015,
+            "with2": 0.2957486136783734,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_15": {
+            "with1": 0.00853731343283582,
+            "with2": 0.1953551912568306,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_6": {
+            "with1": 0.04686567164179104,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_DorsAttn_Post_8": {
+            "with1": 0.01701492537313433,
+            "with2": 0.47738693467336685,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_9": {
+            "with1": 0.00626865671641791,
+            "with2": 0.13513513513513514,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_DorsAttn_Post_11": {
+            "with1": 0.014029850746268656,
+            "with2": 0.2312992125984252,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_ParOper_1": {
+            "with1": 0.05385074626865672,
+            "with2": 0.9933920704845814,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_ParOper_2": {
+            "with1": 0.04041791044776119,
+            "with2": 0.9562146892655368,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_ParOper_3": {
+            "with1": 0.04274626865671642,
+            "with2": 0.8927680798004988,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_ParOper_4": {
+            "with1": 0.03892537313432836,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Cont_Par_2": {
+            "with1": 0.030328358208955224,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_LH_Cont_Par_3": {
+            "with1": 0.0311044776119403,
+            "with2": 0.7246175243393602,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Cont_Par_5": {
+            "with1": 0.013492537313432836,
+            "with2": 0.4050179211469534,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_Par_6": {
+            "with1": 0.05044776119402985,
+            "with2": 0.9894613583138173,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_Default_Par_1": {
+            "with1": 0.007761194029850746,
+            "with2": 0.19607843137254902,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Par_2": {
+            "with1": 0.0007164179104477612,
+            "with2": 0.015544041450777202,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_Par_5": {
+            "with1": 0.038686567164179106,
+            "with2": 0.6728971962616822,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_6": {
+            "with1": 0.00023880597014925374,
+            "with2": 0.006557377049180328,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_8": {
+            "with1": 0.000417910447761194,
+            "with2": 0.011513157894736841,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_9": {
+            "with1": 0.004,
+            "with2": 0.12884615384615383,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_10": {
+            "with1": 0.0368955223880597,
+            "with2": 0.6688311688311688,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_11": {
+            "with1": 0.0068059701492537315,
+            "with2": 0.21348314606741572,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_13": {
+            "with1": 0.023402985074626865,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SomMot_14": {
+            "with1": 0.006985074626865671,
+            "with2": 0.20892857142857144,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_17": {
+            "with1": 0.023044776119402983,
+            "with2": 0.4742014742014742,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_19": {
+            "with1": 0.00626865671641791,
+            "with2": 0.16826923076923078,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_6": {
+            "with1": 0.029253731343283584,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_8": {
+            "with1": 0.016955223880597014,
+            "with2": 0.5714285714285714,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_DorsAttn_Post_9": {
+            "with1": 0.037492537313432835,
+            "with2": 0.8020434227330779,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_DorsAttn_Post_13": {
+            "with1": 0.005492537313432836,
+            "with2": 0.09818569903948772,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_3": {
+            "with1": 0.024835820895522387,
+            "with2": 0.7605118829981719,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_4": {
+            "with1": 0.06071641791044776,
+            "with2": 0.9203619909502262,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_5": {
+            "with1": 0.04143283582089552,
+            "with2": 0.9956958393113343,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_6": {
+            "with1": 0.05385074626865672,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SalVentAttn_TempOccPar_7": {
+            "with1": 0.04591044776119403,
+            "with2": 0.9588528678304239,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_Cont_Par_2": {
+            "with1": 0.016597014925373136,
+            "with2": 0.556,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_Par_4": {
+            "with1": 0.03898507462686567,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_Cont_Par_5": {
+            "with1": 0.0039402985074626865,
+            "with2": 0.12313432835820895,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Par_1": {
+            "with1": 5.9701492537313435e-05,
+            "with2": 0.0016666666666666668,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_Par_4": {
+            "with1": 0.0029850746268656717,
+            "with2": 0.07727975270479134,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Frontal pole": {
+        "7Networks_LH_Limbic_OFC_3": {
+            "with1": 0.0046801872074883,
+            "with2": 0.002717391304347826,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_OFC_5": {
+            "with1": 0.35569422776911075,
+            "with2": 0.2766990291262136,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_3": {
+            "with1": 0.06396255850234009,
+            "with2": 0.06799336650082918,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_OFC_6": {
+            "with1": 0.4118564742589704,
+            "with2": 0.45051194539249145,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCl_3": {
+            "with1": 0.0093603744149766,
+            "with2": 0.004329004329004329,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCdPFCm_2": {
+            "with1": 0.1544461778471139,
+            "with2": 0.19148936170212766,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Temporal pole": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.0018115942028985507,
+            "with2": 0.0001074383125022383,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_2": {
+            "with1": 0.1926328502415459,
+            "with2": 0.41321243523316065,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_6": {
+            "with1": 0.06884057971014493,
+            "with2": 0.11850311850311851,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_7": {
+            "with1": 0.24516908212560387,
+            "with2": 0.44130434782608696,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_1": {
+            "with1": 0.028381642512077296,
+            "with2": 0.0378726833199033,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_3": {
+            "with1": 0.1286231884057971,
+            "with2": 0.3183856502242152,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_5": {
+            "with1": 0.33454106280193235,
+            "with2": 0.6548463356973995,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Transverse temporal": {
+        "7Networks_LH_SomMot_1": {
+            "with1": 0.16964769647696476,
+            "with2": 0.35011185682326623,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_2": {
+            "with1": 0.18644986449864498,
+            "with2": 0.2525697503671072,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_3": {
+            "with1": 0.14200542005420055,
+            "with2": 0.4125984251968504,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_5": {
+            "with1": 0.04010840108401084,
+            "with2": 0.08249721293199554,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_7": {
+            "with1": 0.03848238482384824,
+            "with2": 0.08472553699284009,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_1": {
+            "with1": 0.0065040650406504065,
+            "with2": 0.012345679012345678,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_3": {
+            "with1": 0.24823848238482385,
+            "with2": 0.43702290076335876,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_4": {
+            "with1": 0.08401084010840108,
+            "with2": 0.23773006134969324,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_6": {
+            "with1": 0.03360433604336043,
+            "with2": 0.10163934426229508,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_10": {
+            "with1": 0.05094850948509485,
+            "with2": 0.10173160173160173,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Insula": {
+        "Background+FreeSurfer_Defined_Medial_Wall": {
+            "with1": 0.008721775365830022,
+            "with2": 0.003223149375067149,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_1": {
+            "with1": 0.0005814516910553348,
+            "with2": 0.006711409395973154,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_3": {
+            "with1": 0.036146913460606646,
+            "with2": 0.5874015748031496,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_4": {
+            "with1": 0.08014342475046031,
+            "with2": 0.7559414990859232,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SomMot_5": {
+            "with1": 0.04990793681558291,
+            "with2": 0.5741360089186176,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SomMot_8": {
+            "with1": 0.00222889814904545,
+            "with2": 0.03281027104136947,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_1": {
+            "with1": 0.0014536292276383371,
+            "with2": 0.021337126600284494,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_2": {
+            "with1": 0.1266595600348871,
+            "with2": 0.9746457867263236,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_3": {
+            "with1": 0.016280647349549374,
+            "with2": 0.2317241379310345,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_4": {
+            "with1": 0.05271828665568369,
+            "with2": 0.7092568448500652,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_5": {
+            "with1": 0.03769745130342087,
+            "with2": 0.3929292929292929,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_SalVentAttn_FrOperIns_6": {
+            "with1": 0.04021707529799399,
+            "with2": 0.5911680911680912,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_OFC_2": {
+            "with1": 0.0039732532222114545,
+            "with2": 0.03871576959395656,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Limbic_TempPole_7": {
+            "with1": 0.017152824886132376,
+            "with2": 0.1923913043478261,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Cont_PFCv_1": {
+            "with1": 0.030816939625932745,
+            "with2": 0.6611226611226612,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_LH_Default_PFC_1": {
+            "with1": 0.006492877216784572,
+            "with2": 0.06774519716885744,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_4": {
+            "with1": 0.03750363407306909,
+            "with2": 0.593558282208589,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_5": {
+            "with1": 0.0409923442194011,
+            "with2": 0.789179104477612,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_6": {
+            "with1": 0.05271828665568369,
+            "with2": 0.8918032786885246,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SomMot_9": {
+            "with1": 0.017443550731660044,
+            "with2": 0.34615384615384615,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SomMot_10": {
+            "with1": 0.004167070452563233,
+            "with2": 0.046536796536796536,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_1": {
+            "with1": 0.058726620796588816,
+            "with2": 0.5782442748091603,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_2": {
+            "with1": 0.0481635817424169,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_3": {
+            "with1": 0.06405659463126272,
+            "with2": 0.7145945945945946,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_4": {
+            "with1": 0.04748522143618568,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_5": {
+            "with1": 0.03362728946603353,
+            "with2": 0.2505415162454874,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_SalVentAttn_FrOperIns_6": {
+            "with1": 0.03382110669638531,
+            "with2": 0.4520725388601036,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_OFC_2": {
+            "with1": 0.0011629033821106696,
+            "with2": 0.015463917525773196,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Limbic_TempPole_5": {
+            "with1": 0.007752689214071131,
+            "with2": 0.09456264775413711,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Cont_PFCv_1": {
+            "with1": 0.03256129469909875,
+            "with2": 0.45776566757493187,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "7Networks_RH_Default_PFCv_1": {
+            "with1": 0.008624866750654133,
+            "with2": 0.10532544378698225,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    }
+}

@@ -1,0 +1,1180 @@
+{
+    "Bankssts": {
+        "Brodmann.40": {
+            "with1": 0.018693745672744056,
+            "with2": 0.007861787828787731,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.39": {
+            "with1": 0.1345488114470344,
+            "with2": 0.0669115115344887,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.22": {
+            "with1": 0.8439879990768521,
+            "with2": 0.22391623806024982,
+            "forward": "most belong to",
+            "backward": "most contain"
+        }
+    },
+    "Caudal anterior cingulate": {
+        "Brodmann.3": {
+            "with1": 0.03839842468001313,
+            "with2": 0.0213386832026263,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.32": {
+            "with1": 0.019035116508040694,
+            "with2": 0.010644154890805653,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.24": {
+            "with1": 0.679028552674762,
+            "with2": 0.2540832616971632,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "MEDIAL.WALL": {
+            "with1": 0.21988841483426322,
+            "with2": 0.026469658659924147,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.33": {
+            "with1": 0.04364949130292091,
+            "with2": 0.3316708229426434,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Caudal middle frontal": {
+        "Brodmann.8": {
+            "with1": 0.23167358229598894,
+            "with2": 0.23011402665201264,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.6": {
+            "with1": 0.40027662517289075,
+            "with2": 0.17335569665748174,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.9": {
+            "with1": 0.16957123098201937,
+            "with2": 0.1361768299455737,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.44": {
+            "with1": 0.17966804979253112,
+            "with2": 0.29536152796725784,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.46": {
+            "with1": 0.018810511756569847,
+            "with2": 0.02401978099611445,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Cuneus": {
+        "Brodmann.19": {
+            "with1": 0.04100367197062423,
+            "with2": 0.006659377795447769,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.17": {
+            "with1": 0.3996328029375765,
+            "with2": 0.1914675267556077,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.18": {
+            "with1": 0.5559975520195839,
+            "with2": 0.1451509825850775,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Entorhinal": {
+        "Brodmann.38": {
+            "with1": 0.11776447105788423,
+            "with2": 0.044773287801176245,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.20": {
+            "with1": 0.6367265469061876,
+            "with2": 0.13846988605534455,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.36": {
+            "with1": 0.2435129740518962,
+            "with2": 0.1689165801315334,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Fusiform": {
+        "Brodmann.40": {
+            "with1": 0.0005333333333333334,
+            "with2": 0.00048529554498689704,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.19": {
+            "with1": 0.13653333333333334,
+            "with2": 0.06361196700129212,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.38": {
+            "with1": 0.026453333333333332,
+            "with2": 0.047049895655473344,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.37": {
+            "with1": 0.47872,
+            "with2": 0.46435592343507504,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.20": {
+            "with1": 0.3549866666666667,
+            "with2": 0.36115029842647856,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Inferior parietal": {
+        "Brodmann.7": {
+            "with1": 0.2393571550692426,
+            "with2": 0.2125506072874494,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.40": {
+            "with1": 0.11785490397218898,
+            "with2": 0.2007182374065806,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.39": {
+            "with1": 0.39072206075112553,
+            "with2": 0.7868701939630437,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "Brodmann.19": {
+            "with1": 0.24368837978001937,
+            "with2": 0.2125037272636915,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.22": {
+            "with1": 0.0021656123553883853,
+            "with2": 0.0023267205486162137,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.18": {
+            "with1": 0.0013107653729982334,
+            "with2": 0.0018373542099376897,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Inferior temporal": {
+        "Brodmann.40": {
+            "with1": 0.00011610356437942645,
+            "with2": 9.705910899737941e-05,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.39": {
+            "with1": 0.0013932427725531174,
+            "with2": 0.0013772523814989098,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.19": {
+            "with1": 0.0009288285150354116,
+            "with2": 0.00039757479375807575,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.22": {
+            "with1": 0.0038314176245210726,
+            "with2": 0.002020573108008817,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.21": {
+            "with1": 0.28561476837338906,
+            "with2": 0.5055487053020962,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.38": {
+            "with1": 0.013351909903634041,
+            "with2": 0.02181749193701385,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.37": {
+            "with1": 0.41971438523162663,
+            "with2": 0.37403000517330576,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.20": {
+            "with1": 0.2677348194589574,
+            "with2": 0.250244167118828,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Isthmus cingulate": {
+        "Brodmann.31": {
+            "with1": 0.016670054889205123,
+            "with2": 0.013170575008030838,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.23": {
+            "with1": 0.40130107745476723,
+            "with2": 0.5607954545454545,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.19": {
+            "with1": 0.0626143525106729,
+            "with2": 0.015306629559685916,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.30": {
+            "with1": 0.08274039438910348,
+            "with2": 0.37339449541284403,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.27": {
+            "with1": 0.001829640170766416,
+            "with2": 0.010575793184488837,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.35": {
+            "with1": 0.0646472860337467,
+            "with2": 0.38267148014440433,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.29": {
+            "with1": 0.061801179101443386,
+            "with2": 0.8760806916426513,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "Brodmann.26": {
+            "with1": 0.046554177678389916,
+            "with2": 1.0,
+            "forward": "contain",
+            "backward": "belong to"
+        },
+        "MEDIAL.WALL": {
+            "with1": 0.1896726977027851,
+            "with2": 0.036859987357774966,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Lateral occipital": {
+        "Brodmann.39": {
+            "with1": 0.020742181169988657,
+            "with2": 0.029381384138643406,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.19": {
+            "with1": 0.4623237724842003,
+            "with2": 0.28357022164794754,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.37": {
+            "with1": 0.03613676875708961,
+            "with2": 0.046145887221934814,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.17": {
+            "with1": 0.06579160589855777,
+            "with2": 0.11904412842691688,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.18": {
+            "with1": 0.4139523578026252,
+            "with2": 0.40813228950311553,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Lateral orbitofrontal": {
+        "Brodmann.25": {
+            "with1": 0.023530789042378833,
+            "with2": 0.16328188464662877,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.11": {
+            "with1": 0.6897682041676423,
+            "with2": 0.5530317251736437,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "MEDIAL.WALL": {
+            "with1": 0.00035120580660266915,
+            "with2": 0.00011852085967130215,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Lingual": {
+        "Brodmann.19": {
+            "with1": 0.3502901592789233,
+            "with2": 0.1409899612364576,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.37": {
+            "with1": 0.027657735522904063,
+            "with2": 0.023176409725814796,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.20": {
+            "with1": 0.05457463884430177,
+            "with2": 0.04796527400976668,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.17": {
+            "with1": 0.15582170638350415,
+            "with2": 0.1850168596979915,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.18": {
+            "with1": 0.3652302753426349,
+            "with2": 0.2362997283911168,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.27": {
+            "with1": 0.017533028768983824,
+            "with2": 0.16686251468860164,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.35": {
+            "with1": 0.024570934683294233,
+            "with2": 0.2394705174488568,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Medial orbitofrontal": {
+        "Brodmann.3": {
+            "with1": 0.0003667033370003667,
+            "with2": 0.0003647638154295094,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.32": {
+            "with1": 0.248991565823249,
+            "with2": 0.2492200403743806,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.24": {
+            "with1": 0.10414374770810414,
+            "with2": 0.06975316222522412,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.10": {
+            "with1": 0.11569490282361569,
+            "with2": 0.08921249823271596,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.25": {
+            "with1": 0.1651998533186652,
+            "with2": 0.7319252640129975,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "Brodmann.11": {
+            "with1": 0.3346167950128346,
+            "with2": 0.17129716538389336,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "MEDIAL.WALL": {
+            "with1": 0.009167583425009167,
+            "with2": 0.001975347661188369,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.33": {
+            "with1": 0.002566923359002567,
+            "with2": 0.034912718204488775,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Middle temporal": {
+        "Brodmann.39": {
+            "with1": 0.10568934693448312,
+            "with2": 0.11534488695053369,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.19": {
+            "with1": 0.0006309811757282574,
+            "with2": 0.0002981810953185568,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.22": {
+            "with1": 0.5481123146492797,
+            "with2": 0.31912809208915016,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.21": {
+            "with1": 0.2320959091387107,
+            "with2": 0.4535552815454172,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.37": {
+            "with1": 0.09380586812493427,
+            "with2": 0.09229177444386963,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.20": {
+            "with1": 0.0026290882322010725,
+            "with2": 0.0027129679869777536,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Parahippocampal": {
+        "Brodmann.19": {
+            "with1": 0.0025139664804469273,
+            "with2": 0.0004472716429778352,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.20": {
+            "with1": 0.4963687150837989,
+            "with2": 0.19283776451437873,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.27": {
+            "with1": 0.08994413407821229,
+            "with2": 0.3783783783783784,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.36": {
+            "with1": 0.2170391061452514,
+            "with2": 0.26895119418483904,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.35": {
+            "with1": 0.06620111731843575,
+            "with2": 0.2851985559566787,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.28": {
+            "with1": 0.05865921787709497,
+            "with2": 0.12665862484921592,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Paracentral": {
+        "Brodmann.6": {
+            "with1": 0.13136842105263158,
+            "with2": 0.05606804840062298,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.4": {
+            "with1": 0.6408421052631579,
+            "with2": 0.24790965359973938,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.3": {
+            "with1": 0.02863157894736842,
+            "with2": 0.037205909173809955,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.1": {
+            "with1": 0.04856140350877193,
+            "with2": 0.054703557312252966,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.5": {
+            "with1": 0.03494736842105263,
+            "with2": 0.04455179817498658,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.2": {
+            "with1": 0.04252631578947368,
+            "with2": 0.026527753458238486,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.31": {
+            "with1": 0.04982456140350877,
+            "with2": 0.05701895277867009,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.24": {
+            "with1": 0.00856140350877193,
+            "with2": 0.007491096647427238,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Pars opercularis": {
+        "Brodmann.6": {
+            "with1": 0.018422464675371134,
+            "with2": 0.006169881394512999,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.44": {
+            "with1": 0.506349490252191,
+            "with2": 0.6437016825829923,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.45": {
+            "with1": 0.1325344303344661,
+            "with2": 0.3369713506139154,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.46": {
+            "with1": 0.025755678769450903,
+            "with2": 0.025432709290003533,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Pars orbitalis": {
+        "Brodmann.47": {
+            "with1": 0.20557308096740273,
+            "with2": 0.2794853466761973,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.10": {
+            "with1": 0.026813880126182965,
+            "with2": 0.007210518874593524,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.11": {
+            "with1": 0.7192429022082019,
+            "with2": 0.1284024779425568,
+            "forward": "most belong to",
+            "backward": "most contain"
+        },
+        "Brodmann.46": {
+            "with1": 0.00473186119873817,
+            "with2": 0.0015895443306252208,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Pars triangularis": {
+        "Brodmann.45": {
+            "with1": 0.307049254405784,
+            "with2": 0.6180081855388813,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.47": {
+            "with1": 0.22774514234071397,
+            "with2": 0.7205146533238027,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "Brodmann.11": {
+            "with1": 0.0009037505648441031,
+            "with2": 0.00037544584193730055,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.46": {
+            "with1": 0.15634884771802982,
+            "with2": 0.12221829742140586,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Pericalcarine": {
+        "Brodmann.17": {
+            "with1": 0.907095046854083,
+            "with2": 0.4967013634364463,
+            "forward": "most belong to",
+            "backward": "most contain"
+        },
+        "Brodmann.18": {
+            "with1": 0.09049531459170014,
+            "with2": 0.02700111838951909,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Postcentral": {
+        "Brodmann.4": {
+            "with1": 0.006753497346840328,
+            "with2": 0.0068411336735801935,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.3": {
+            "with1": 0.19563702631719998,
+            "with2": 0.6656939631588547,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.1": {
+            "with1": 0.31334083721927425,
+            "with2": 0.9242687747035573,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "Brodmann.2": {
+            "with1": 0.30353218631076806,
+            "with2": 0.4957975836105761,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.43": {
+            "with1": 0.10108806346143538,
+            "with2": 0.5723823975720789,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.41": {
+            "with1": 0.012220614246663451,
+            "with2": 0.08456973293768547,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Posterior cingulate": {
+        "Brodmann.6": {
+            "with1": 0.010063897763578274,
+            "with2": 0.0037738109500419312,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.5": {
+            "with1": 0.0003194888178913738,
+            "with2": 0.0003578457684737878,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.31": {
+            "with1": 0.19329073482428116,
+            "with2": 0.19434628975265017,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.23": {
+            "with1": 0.06980830670926517,
+            "with2": 0.12414772727272727,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.24": {
+            "with1": 0.5707667731629393,
+            "with2": 0.43878177575832,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "MEDIAL.WALL": {
+            "with1": 0.1404153354632588,
+            "with2": 0.03472661188369153,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Precentral": {
+        "Brodmann.6": {
+            "with1": 0.2319888085800886,
+            "with2": 0.29801126153108903,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.4": {
+            "with1": 0.5857775705292609,
+            "with2": 0.6820501683136062,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.3": {
+            "with1": 0.06094660760083936,
+            "with2": 0.23837315338318438,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.1": {
+            "with1": 0.0059221263697831665,
+            "with2": 0.02007905138339921,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.2": {
+            "with1": 0.00046630916297505244,
+            "with2": 0.0008755034144633164,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.44": {
+            "with1": 0.00489624621123805,
+            "with2": 0.023874488403819918,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.43": {
+            "with1": 0.0293308463511308,
+            "with2": 0.19089529590288315,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Precuneus": {
+        "Brodmann.4": {
+            "with1": 0.0007197539750049074,
+            "with2": 0.0005972418286458898,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.1": {
+            "with1": 0.00039259307727540407,
+            "with2": 0.0009486166007905138,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.5": {
+            "with1": 0.17882614669894653,
+            "with2": 0.48899624261943103,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.7": {
+            "with1": 0.17771379964666623,
+            "with2": 0.1374493927125506,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.2": {
+            "with1": 0.013021003729634235,
+            "with2": 0.017422517947819998,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.31": {
+            "with1": 0.2996139501406792,
+            "with2": 0.7354641824606489,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "Brodmann.23": {
+            "with1": 0.07256428711640385,
+            "with2": 0.3150568181818182,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.19": {
+            "with1": 0.16717921873977623,
+            "with2": 0.12697544975648545,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.30": {
+            "with1": 0.04469017862985016,
+            "with2": 0.6266055045871559,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.17": {
+            "with1": 0.0034679055159327356,
+            "with2": 0.007770121683037678,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.18": {
+            "with1": 0.02257410194333573,
+            "with2": 0.027560313149065346,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.29": {
+            "with1": 0.002813583720473729,
+            "with2": 0.1239193083573487,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Rostral anterior cingulate": {
+        "Brodmann.3": {
+            "with1": 0.08371511870054144,
+            "with2": 0.036658763450665696,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.32": {
+            "with1": 0.08288213244481465,
+            "with2": 0.03652046247017801,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.24": {
+            "with1": 0.5031236984589754,
+            "with2": 0.14834827459167382,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.25": {
+            "with1": 0.024573094543940025,
+            "with2": 0.0479285134037368,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "MEDIAL.WALL": {
+            "with1": 0.19075385256143274,
+            "with2": 0.018094184576485463,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.33": {
+            "with1": 0.10578925447730113,
+            "with2": 0.6334164588528678,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Rostral middle frontal": {
+        "Brodmann.8": {
+            "with1": 0.015555702654398623,
+            "with2": 0.03228465448550625,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.9": {
+            "with1": 0.26802144701131925,
+            "with2": 0.44973897589692324,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.44": {
+            "with1": 0.010789700139008407,
+            "with2": 0.03706230104592997,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.45": {
+            "with1": 0.006553253458661547,
+            "with2": 0.045020463847203276,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.10": {
+            "with1": 0.3011848811809095,
+            "with2": 0.6432913897921674,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.11": {
+            "with1": 0.08737671278215396,
+            "with2": 0.12389712783930917,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.46": {
+            "with1": 0.3098563579797445,
+            "with2": 0.8267396679618509,
+            "forward": "most contain",
+            "backward": "most belong to"
+        }
+    },
+    "Superior frontal": {
+        "Brodmann.8": {
+            "with1": 0.22317828490667996,
+            "with2": 0.7376013188624811,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "Brodmann.6": {
+            "with1": 0.32102922226379016,
+            "with2": 0.4626213010662513,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.4": {
+            "with1": 0.047927838051294844,
+            "with2": 0.06260180258442828,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.9": {
+            "with1": 0.15496529076775992,
+            "with2": 0.414084194157503,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.32": {
+            "with1": 0.15937149270482603,
+            "with2": 0.7036153422646357,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "Brodmann.24": {
+            "with1": 0.027601114020867106,
+            "with2": 0.08154242908019158,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.10": {
+            "with1": 0.06006567734962797,
+            "with2": 0.20429803478014988,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Superior parietal": {
+        "Brodmann.5": {
+            "with1": 0.12597930167327595,
+            "with2": 0.4660941134371086,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.7": {
+            "with1": 0.4999516394235419,
+            "with2": 0.5231781376518219,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.2": {
+            "with1": 0.135506335235516,
+            "with2": 0.24531605673262125,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.19": {
+            "with1": 0.14522681110358834,
+            "with2": 0.14923963820693767,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.18": {
+            "with1": 0.09323919141116162,
+            "with2": 0.15401821377216807,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Superior temporal": {
+        "Brodmann.40": {
+            "with1": 0.014215998302567368,
+            "with2": 0.01950888090847326,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.22": {
+            "with1": 0.5142513614824245,
+            "with2": 0.445199608131276,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.42": {
+            "with1": 0.14116981398967396,
+            "with2": 0.4693157770985187,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.21": {
+            "with1": 0.01195275479171087,
+            "with2": 0.03473078503904645,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.38": {
+            "with1": 0.19159770846594526,
+            "with2": 0.5139442231075697,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Supramarginal": {
+        "Brodmann.7": {
+            "with1": 0.14961194029850747,
+            "with2": 0.12682186234817813,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.2": {
+            "with1": 0.14597014925373133,
+            "with2": 0.21406058483628085,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.40": {
+            "with1": 0.47444776119402987,
+            "with2": 0.7713287392021742,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "Brodmann.39": {
+            "with1": 5.9701492537313435e-05,
+            "with2": 0.0001147710317915758,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.43": {
+            "with1": 0.046567164179104475,
+            "with2": 0.23672230652503792,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.41": {
+            "with1": 0.1151044776119403,
+            "with2": 0.7151335311572701,
+            "forward": "most contain",
+            "backward": "most belong to"
+        },
+        "Brodmann.22": {
+            "with1": 0.001671641791044776,
+            "with2": 0.0017144256674014205,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.42": {
+            "with1": 0.04680597014925373,
+            "with2": 0.18434046555372677,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Frontal pole": {
+        "Brodmann.10": {
+            "with1": 0.6177847113884556,
+            "with2": 0.05598755832037325,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.11": {
+            "with1": 0.38221528861154447,
+            "with2": 0.022996057818659658,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Temporal pole": {
+        "Brodmann.21": {
+            "with1": 0.018115942028985508,
+            "with2": 0.006165228113440197,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.38": {
+            "with1": 0.9281400966183575,
+            "with2": 0.2915955226712199,
+            "forward": "most belong to",
+            "backward": "most contain"
+        },
+        "Brodmann.20": {
+            "with1": 0.036231884057971016,
+            "with2": 0.0065111231687466084,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.36": {
+            "with1": 0.012681159420289856,
+            "with2": 0.007268951194184839,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Transverse temporal": {
+        "Brodmann.22": {
+            "with1": 0.05040650406504065,
+            "with2": 0.005694342395297576,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.42": {
+            "with1": 0.6466124661246613,
+            "with2": 0.2805078767928521,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    },
+    "Insula": {
+        "Brodmann.41": {
+            "with1": 0.052330652194980135,
+            "with2": 0.20029673590504452,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.42": {
+            "with1": 0.02713441224924896,
+            "with2": 0.06583588055490242,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.38": {
+            "with1": 0.0347901928481442,
+            "with2": 0.0681085183077215,
+            "forward": "intersect",
+            "backward": "intersect"
+        },
+        "Brodmann.36": {
+            "with1": 0.009593952902413024,
+            "with2": 0.03426791277258567,
+            "forward": "intersect",
+            "backward": "intersect"
+        }
+    }
+}

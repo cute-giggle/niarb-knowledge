@@ -1,0 +1,34 @@
+Bankssts
+Caudal anterior cingulate
+Caudal middle frontal
+Cuneus
+Entorhinal
+Fusiform
+Inferior parietal
+Inferior temporal
+Isthmus cingulate
+Lateral occipital
+Lateral orbitofrontal
+Lingual
+Medial orbitofrontal
+Middle temporal
+Parahippocampal
+Paracentral
+Pars opercularis
+Pars orbitalis
+Pars triangularis
+Pericalcarine
+Postcentral
+Posterior cingulate
+Precentral
+Precuneus
+Rostral anterior cingulate
+Rostral middle frontal
+Superior frontal
+Superior parietal
+Superior temporal
+Supramarginal
+Frontal pole
+Temporal pole
+Transverse temporal
+Insula
