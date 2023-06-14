@@ -31,4 +31,4 @@ def batch_insert_relationship_triples(triples):
                     tx.run(cypher_query, subject=triple[0], relation=triple[1], object=triple[2])
 
 
-batch_insert_relationship_triples(json.load(open('data/relation_triples_1.json')))
+batch_insert_relationship_triples(json.load(open('data/relation_triples_0.json')))
