@@ -32,3 +32,4 @@ def batch_insert_relationship_triples(triples):
 
 
 batch_insert_relationship_triples(json.load(open('data/relation_triples_0.json')))
+batch_insert_relationship_triples(json.load(open('data/relation_triples_1.json')))
