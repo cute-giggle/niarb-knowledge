@@ -8,7 +8,7 @@ from openai.error import RateLimitError
 os.environ['HTTP_PROXY'] = '192.168.1.34:7890'
 os.environ['HTTPS_PROXY'] = '192.168.1.34:7890'
 
-openai.api_key_path = '../../data/api-key.txt'
+openai.api_key_path = '../data/api-key.txt'
 
 def call(content: str):
     message = [
@@ -39,9 +39,12 @@ corpus = read_corpus()
 relations = read_relations()
 region_names = list(corpus.keys())
 
+no_names = []
 for region_name in region_names:
-    if region_name in relations:
-        region_names.remove(region_name)
+    if region_name not in relations:
+        no_names.append(region_name)
+
+region_names = no_names
 
 i = 0
 while i < len(region_names):
